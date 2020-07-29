@@ -25,7 +25,7 @@ SECRET_KEY = '%anlog$&1oj+qis)9unv^=9q2pbnyrg7&e@(as2jw$w8bg+sjn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['upload-download-cpfd.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['uldl-live1.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
