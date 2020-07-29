@@ -1,0 +1,104 @@
+{% extends 'accounts/main.html' %}
+{% load static %} 
+
+{% block content%}
+
+<head>
+  <link rel="stylesheet" type="text/css" href="{% static 'css/download.css' %}">
+  <script src="{% static 'js/dragtable.js' %}"></script>
+  <script src="{% static 'js/sorttable.js' %}"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<style type="text/css">
+	.display{
+		text-align: right; 
+		font-weight: bold;
+	}
+</style>
+
+		
+<br>
+<div class="row">
+	<div class="col-md">
+		<div class="d-flex justify-content-center">
+			<div class="header">
+				<h1>Presentation Upload/Download</h1>
+			</div>
+		</div>
+		<br>
+		{% for message in messages %}
+			<p id="messages">{{message}}</p>
+		{% endfor %}
+		<div class="card card-body">
+			<div>
+			<form style = "text-align: left">
+				<a class="btn btn-primary" type="button" href="{% url 'Upload' %}">Upload New Presentation</a>
+				<button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+					Filter Presentations
+  				</button>
+				<div class="collapse" id="collapseExample">
+  					<div class="card card-body">
+    					{{myFilter.form}}
+    					<button class = "btn btn-primary" type = "submit">Search</button>
+  					</div>
+				</div>
+			</form>
+			</div>		
+			<hr>
+			<div style="overflow-x:auto;">
+			<table class="draggable sortable" id="myTable2">
+				<tr>
+					<th>Title</th>
+					<th>Author</th>
+					<th>Protocol</th>
+					<th>Active Ingredients</th>
+					<th>Crop</th>
+					<th>Year</th>
+					<th>Status</th>
+					<th>Country</th>
+					<th>Download</th>
+				</tr>		
+				{% for i in presentations %}
+					<tr>
+						<td>{{i.get_title}}</td>
+						<td>{{i.author}}</td>
+						<td>{{i.get_protocols}}</td>
+						<td>{{i.get_ais}}</td>
+						<td>{{i.get_crops}}</td>
+						<td>{{i.year}}</td>
+						<td>{{i.status}}</td>
+						<td>{{i.country}}</td>
+						<td style="text-align:center">
+							<a href = "{{i.pptx.url}}">
+							<svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-download" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+								<path fill-rule="evenodd" d="M.5 8a.5.5 0 0 1 .5.5V12a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V8.5a.5.5 0 0 1 1 0V12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V8.5A.5.5 0 0 1 .5 8z"/>
+  								<path fill-rule="evenodd" d="M5 7.5a.5.5 0 0 1 .707 0L8 9.793 10.293 7.5a.5.5 0 1 1 .707.707l-2.646 2.647a.5.5 0 0 1-.708 0L5 8.207A.5.5 0 0 1 5 7.5z"/>
+ 								<path fill-rule="evenodd" d="M8 1a.5.5 0 0 1 .5.5v8a.5.5 0 0 1-1 0v-8A.5.5 0 0 1 8 1z"/>
+							</svg>
+						</a>
+						</td>
+					</tr>
+				{% endfor %}
+			</table>
+			</div>
+		</div>
+		<div class="card card-body">
+			<form style = "text-align: right">
+				<p class = "display">Currently displaying: {{display}} Presentations</p>
+				<a class = "btn btn-primary btn-sm"  href = "{% url 'Export' %}" role = "button">Export Table <i class="fa fa-file-excel-o"></i></a>
+				<a class = "btn btn-primary btn-sm" href = "{% url 'ZIP' %}" role = "button">Download Filtered Presentations <i class="fa fa-file-archive-o" aria-hidden="true"></i></a>
+			</form>
+		</div>
+	</div>		
+</div>
+
+<script type="text/javascript">
+	var message_ele = document.getElementById("messages");
+
+	setTimeout(function(){ 
+   		message_ele.style.display = "none"; 
+	}, 3000);
+</script>
+
+{% endblock %}

@@ -1,0 +1,91 @@
+{% extends 'accounts/main.html' %}
+{% load static %}
+{% block content %}
+
+
+<link rel="stylesheet" type="text/css" href="{% static 'css/upload.css' %}">
+<style type="text/css">
+	label {
+		font-size: 1.3vw;
+		font-weight: bold;
+	}
+	#id_title{
+		width:90%;
+	}
+	#id_status{
+		border: 1px solid black;
+	}
+	#id_status_0{
+		font-size: 1vw;
+		font-weight: normal;
+	}
+	#id_status_1{
+		font-size: 1vw;
+		font-weight: normal !important;
+	}
+</style>
+
+<br>
+<div class="d-flex justify-content-center">
+	<div class="header">
+		<h1>Presentation Upload</h1>
+	</div>
+</div>
+<hr>
+
+<div class="card card-body">
+	<form method="POST" enctype = "multipart/form-data">
+		{% csrf_token %}
+
+		<div class = "form-row">
+			<div class="col-md-4 mb-3">
+				<label for = "id_author">Author*</label>
+				{{submit.author}}
+			</div>
+			<div class = "col-md-4 mb-3">
+				<label for = "id_year">Year*</label>
+				{{submit.year}}
+			</div>
+			<div class = "col-md-4 mb-3">
+				<label for = "id_country">Country*</label>
+				{{submit.country}}
+			</div>
+		</div>
+
+		<div class="form-row">
+			<div class = "col-md-4 mb-3">
+				<label for = "id_ai">Active Ingredients*</label>
+				{{submit.ai}}
+			</div>
+			<div class = "col-md-4 mb-3">
+				<label for = "id_crop">Crops*</label>
+				{{submit.crop}}
+			</div>
+			<div class = "col-md-4 mb-3" onchange="myNewFunction(this);">	
+				<label for = "id_protocol">Protocol*</label>
+				{{submit.protocol}}
+			</div>
+		</div>
+
+		<div class = "form-row">
+			<div class = "col-md-2 mb-3">
+				<label for = "id_status">Status*</label>
+				{{submit.status}}
+			</div>
+			<div class = "col-md-2 mb-3">
+			</div>
+			<div class = "col-md-4 mb-3" style="border: 1px;">
+				<br>
+				<label for ="id_pptx">Presentation*</label>
+				<br>
+				{{submit.pptx}}
+			</div>
+		</div>
+		<hr>
+		<div style="text-align: right">
+			<input class="btn btn-primary btn-lg" type="submit" name="Upload" value ="Upload">
+		</div>
+	</form>
+</div>
+
+{% endblock %}

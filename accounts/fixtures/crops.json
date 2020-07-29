@@ -1,0 +1,877 @@
+[
+{
+"model": "accounts.crop",
+"pk": 1,
+"fields": {
+"name": "ALFALFA"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 2,
+"fields": {
+"name": "ALMOND"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 3,
+"fields": {
+"name": "AMERICAN GINSENG"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 4,
+"fields": {
+"name": "ANNUAL BLUEGRASS (TURF)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 5,
+"fields": {
+"name": "APPLE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 6,
+"fields": {
+"name": "APRICOT"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 7,
+"fields": {
+"name": "ARABLE LAND"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 8,
+"fields": {
+"name": "AVOCADO"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 9,
+"fields": {
+"name": "BARE GROUND"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 10,
+"fields": {
+"name": "BARLEY"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 11,
+"fields": {
+"name": "BEAN"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 12,
+"fields": {
+"name": "BEGONIA"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 13,
+"fields": {
+"name": "BERMUDA GRASS (TURF)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 14,
+"fields": {
+"name": "BLACK-EYED PEA"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 15,
+"fields": {
+"name": "BLACKBERRY"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 16,
+"fields": {
+"name": "BOXWOOD"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 17,
+"fields": {
+"name": "BRASSICA SP."
+}
+},
+{
+"model": "accounts.crop",
+"pk": 18,
+"fields": {
+"name": "BROAD BEAN"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 19,
+"fields": {
+"name": "BROCCOLI"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 20,
+"fields": {
+"name": "BUSH PUMPKIN"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 21,
+"fields": {
+"name": "CABBAGE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 22,
+"fields": {
+"name": "CANTALOUP MELON"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 23,
+"fields": {
+"name": "CARROT"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 24,
+"fields": {
+"name": "CAULIFLOWER"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 25,
+"fields": {
+"name": "CELERY"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 26,
+"fields": {
+"name": "CEREALS"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 27,
+"fields": {
+"name": "CHERRY"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 28,
+"fields": {
+"name": "CHICKPEA"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 29,
+"fields": {
+"name": "CHINESE CABBAGE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 30,
+"fields": {
+"name": "CHINESE CHARD"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 31,
+"fields": {
+"name": "CHRYSANTHEMUM"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 32,
+"fields": {
+"name": "CITRUS"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 33,
+"fields": {
+"name": "COMMON HOP"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 34,
+"fields": {
+"name": "COMMON SUGARCANE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 35,
+"fields": {
+"name": "CORN"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 36,
+"fields": {
+"name": "COTTON"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 37,
+"fields": {
+"name": "CREEPING BENTGRASS (TURF)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 38,
+"fields": {
+"name": "CUCUMBER"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 39,
+"fields": {
+"name": "CUCURBITACEAE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 40,
+"fields": {
+"name": "DENT CORN"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 41,
+"fields": {
+"name": "DIRECT SEEDED ONION"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 42,
+"fields": {
+"name": "DURUM WHEAT"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 43,
+"fields": {
+"name": "EUROPEAN GRAPE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 44,
+"fields": {
+"name": "FIELD BEAN"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 45,
+"fields": {
+"name": "FIELD PEA"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 46,
+"fields": {
+"name": "GARLIC"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 47,
+"fields": {
+"name": "GERANIUM SP."
+}
+},
+{
+"model": "accounts.crop",
+"pk": 48,
+"fields": {
+"name": "GLAZED CERAMIC TILE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 49,
+"fields": {
+"name": "GRAPE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 50,
+"fields": {
+"name": "HAZELNUT"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 51,
+"fields": {
+"name": "HEAD LETTUCE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 52,
+"fields": {
+"name": "HIGHBUSH BLUEBERRY"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 53,
+"fields": {
+"name": "JAPANESE LAWNGRASS"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 54,
+"fields": {
+"name": "KALE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 55,
+"fields": {
+"name": "KENTUCKY BLUEGRASS (TURF)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 56,
+"fields": {
+"name": "LEAF LETTUCE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 57,
+"fields": {
+"name": "LEAF MUSTARD"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 58,
+"fields": {
+"name": "LEEK"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 59,
+"fields": {
+"name": "LENTIL"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 60,
+"fields": {
+"name": "LETTUCE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 61,
+"fields": {
+"name": "LETTUCE ROMAINE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 62,
+"fields": {
+"name": "LIMA BEAN"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 63,
+"fields": {
+"name": "LOWBUSH BLUEBERRY"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 64,
+"fields": {
+"name": "MUSKMELON"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 65,
+"fields": {
+"name": "NECTARINE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 66,
+"fields": {
+"name": "NON-CROP LAND"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 67,
+"fields": {
+"name": "OILSEED RAPE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 68,
+"fields": {
+"name": "ONION"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 69,
+"fields": {
+"name": "ORNAMENTAL PLANTS"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 70,
+"fields": {
+"name": "PADDY RICE TRANSPLANTED"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 71,
+"fields": {
+"name": "PEA"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 72,
+"fields": {
+"name": "PEACH"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 73,
+"fields": {
+"name": "PEANUT"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 74,
+"fields": {
+"name": "PEAR"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 75,
+"fields": {
+"name": "PECAN"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 76,
+"fields": {
+"name": "PEPPER"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 77,
+"fields": {
+"name": "PERENNIAL RYEGRASS (TURF)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 78,
+"fields": {
+"name": "PINE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 79,
+"fields": {
+"name": "PISTACHIO"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 80,
+"fields": {
+"name": "PLUM"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 81,
+"fields": {
+"name": "POME FRUITS"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 82,
+"fields": {
+"name": "POMEGRANATE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 83,
+"fields": {
+"name": "POPCORN"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 84,
+"fields": {
+"name": "POTATO"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 85,
+"fields": {
+"name": "RADISH"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 86,
+"fields": {
+"name": "RASPBERRY"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 87,
+"fields": {
+"name": "RATOON SUGARCANE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 88,
+"fields": {
+"name": "RICE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 89,
+"fields": {
+"name": "ROOT VEGETABLES"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 90,
+"fields": {
+"name": "SALVIA SP."
+}
+},
+{
+"model": "accounts.crop",
+"pk": 91,
+"fields": {
+"name": "SCALLION"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 92,
+"fields": {
+"name": "SEASHORE PASPALUM (TURF)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 93,
+"fields": {
+"name": "SORGHUM"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 94,
+"fields": {
+"name": "SOYBEAN"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 95,
+"fields": {
+"name": "SPINACH"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 96,
+"fields": {
+"name": "SPRING BARLEY"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 97,
+"fields": {
+"name": "SPRING OILSEED RAPE"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 98,
+"fields": {
+"name": "SPRING WHEAT"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 99,
+"fields": {
+"name": "SQUASH"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 100,
+"fields": {
+"name": "ST. AUGUSTINE GRASS (TURF)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 101,
+"fields": {
+"name": "STONE FRUITS"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 102,
+"fields": {
+"name": "STRAWBERRY"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 103,
+"fields": {
+"name": "SUGAR BEET"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 104,
+"fields": {
+"name": "SUNFLOWER"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 105,
+"fields": {
+"name": "SWEET CORN"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 106,
+"fields": {
+"name": "SWEET POTATO"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 107,
+"fields": {
+"name": "TALL FESCUE (TURF)"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 108,
+"fields": {
+"name": "TIMOTHY"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 109,
+"fields": {
+"name": "TOBACCO"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 110,
+"fields": {
+"name": "TOMATO"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 111,
+"fields": {
+"name": "TRANSPLANTED ONION"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 112,
+"fields": {
+"name": "TRANSPLANTED TOMATO"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 113,
+"fields": {
+"name": "TREES AND SHRUBS"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 114,
+"fields": {
+"name": "TURF"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 115,
+"fields": {
+"name": "TURNIP"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 116,
+"fields": {
+"name": "VEGETABLES"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 117,
+"fields": {
+"name": "WALNUT"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 118,
+"fields": {
+"name": "WATER"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 119,
+"fields": {
+"name": "WATERMELON"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 120,
+"fields": {
+"name": "WHEAT"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 121,
+"fields": {
+"name": "WINTER BARLEY"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 122,
+"fields": {
+"name": "WINTER WHEAT"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 123,
+"fields": {
+"name": "WOOD"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 124,
+"fields": {
+"name": "WORMWOOD"
+}
+},
+{
+"model": "accounts.crop",
+"pk": 125,
+"fields": {
+"name": "ZUCCHINI"
+}
+}
+]

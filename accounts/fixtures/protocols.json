@@ -1,0 +1,5698 @@
+[
+{
+"model": "accounts.Protocol",
+"pk": 1,
+"fields": {
+"pid": "CBR910A4-2019US",
+"title": "Brodifacoum: Assessment of Roof Rat Control using the Talon program"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 2,
+"fields": {
+"pid": "F001ADAD-2020US",
+"title": "Foliar Fungicide on Corn at VT/R1"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 3,
+"fields": {
+"pid": "F002ADAD-2020US",
+"title": "Tar Spot Trial"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 4,
+"fields": {
+"pid": "F003ADAD-2020US",
+"title": "Corn Fungicide Shootout Trials"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 5,
+"fields": {
+"pid": "F004ADAD-2020US",
+"title": "Corn Silage - Ear Rot Trial"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 6,
+"fields": {
+"pid": "F006ADAD-2020US",
+"title": "Miravis Neo on Corn Silage"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 7,
+"fields": {
+"pid": "F007ADAD-2020US",
+"title": "Miravis Neo on Grain corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 8,
+"fields": {
+"pid": "F008ADAD-2020US",
+"title": "Corn Ommision Trial"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 9,
+"fields": {
+"pid": "F009ADAD-2020US",
+"title": "Miravis Neo and Trivapro disease control in Cardinal Trials"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 10,
+"fields": {
+"pid": "F010ADAD-2020US",
+"title": "Miravis Neo and Trivapro for drought stress"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 11,
+"fields": {
+"pid": "F050ADAD-2020US",
+"title": "Soybean Fungicide Shootout Trials"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 12,
+"fields": {
+"pid": "F051ADAD-2020US",
+"title": "Soybean Fungicide Shootout Trials"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 13,
+"fields": {
+"pid": "F052ADAD-2020US",
+"title": "Soybean Fungicide Shootout Trials"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 14,
+"fields": {
+"pid": "F053ADAD-2020US",
+"title": "Soybean Fungicide - White Mold Trial"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 15,
+"fields": {
+"pid": "F054ADAD-2020US",
+"title": "Soybean Fungicide - White Mold Trial"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 16,
+"fields": {
+"pid": "F150ADAD-2020US",
+"title": "Miravis Ace - Wheat Fungicide shootout"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 17,
+"fields": {
+"pid": "F200OPAD-2020US",
+"title": "Orondis on potato"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 18,
+"fields": {
+"pid": "F301ADAD-2020US",
+"title": "Miravis neo for white mold in canola"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 19,
+"fields": {
+"pid": "F420SFAD-2020US",
+"title": "Elatus on Sugarbeet"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 20,
+"fields": {
+"pid": "F421SFAD-2020US",
+"title": "Elatus on Sugarbeet"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 21,
+"fields": {
+"pid": "F640ADAD-2020US",
+"title": "Miravis on Apples"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 22,
+"fields": {
+"pid": "F760OPAD-2020US",
+"title": "Orondis Ultra Premix work on pumpkin"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 23,
+"fields": {
+"pid": "FAC800A3-2020US",
+"title": "Evaluation of ASM for safety on putting greens"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 24,
+"fields": {
+"pid": "FAD001A3-2020US",
+"title": "Develop new formulations for field crops-Tar Spot [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 25,
+"fields": {
+"pid": "FAD002A3-2020US",
+"title": "Evaluation of new Miravis formulation for efficacy on against Southern rust on corn [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 26,
+"fields": {
+"pid": "FAD003A3-2020US",
+"title": "Evaluation of new Miravis formulations for efficacy against gray leaf spot and/or northern corn leaf blight on corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 27,
+"fields": {
+"pid": "FAD050A3-2020US",
+"title": "Evaluation of new Miravis formulation for efficacy on soybeans [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 28,
+"fields": {
+"pid": "FAD101A3-2020US",
+"title": "2020 APN premix for the control of target spot of cotton [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 29,
+"fields": {
+"pid": "FAD150A3-2020US",
+"title": "Evaluation of New Miravis formulation for efficay against FHS and crop safty on wheat [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 30,
+"fields": {
+"pid": "FAD200A3-2020US",
+"title": "Evaluate performance of STL + AZT fertilizer compatible premix in potato [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 31,
+"fields": {
+"pid": "FAD360A3-2020US",
+"title": "Evaluate the efficacy of DFZ premixes for peanuts [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 32,
+"fields": {
+"pid": "FAD361A3-2020US",
+"title": "Evaluate APN + STL + DFZ premix for control of peanut disease [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 33,
+"fields": {
+"pid": "FAD420A3-2020US",
+"title": "Cercospora on sugarbeets"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 34,
+"fields": {
+"pid": "FAD421A3-2019US",
+"title": "2019 APN premix for foliar disease of carrot"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 35,
+"fields": {
+"pid": "FAD421A3-2020US",
+"title": "2020 APN premix for foliar disease of carrot [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 36,
+"fields": {
+"pid": "FAD510A3-2019US",
+"title": "APN Premix for disease control in succulent beans: (6A and 6B)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 37,
+"fields": {
+"pid": "FAD601A3-2020US",
+"title": "2020 APN+FLD premixes for powdery mildew on strawberry [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 38,
+"fields": {
+"pid": "FAD620A3-2019US",
+"title": "2019 APN premix for post bloom fruit drop in citrus"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 39,
+"fields": {
+"pid": "FAD660A3-2020US",
+"title": "2020 Evaluate APN+ DFZ for control of cherry diseases"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 40,
+"fields": {
+"pid": "FAD661A3-2020US",
+"title": "2020 Evaluation of APN premixes for disease control in stonefruit [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 41,
+"fields": {
+"pid": "FAD681A3-2020US",
+"title": "2020 Evaluation of APN premixes for Alternaria control in almonds [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 42,
+"fields": {
+"pid": "FAD682A3-2020US",
+"title": "2020 APN premix for pistachio disease [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 43,
+"fields": {
+"pid": "FAD684A3-2020US",
+"title": "2020 Evaluate the residual activity of Miravis Prime in pecans"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 44,
+"fields": {
+"pid": "FAD685A3-2020US",
+"title": "2020 APN Premix for control of Pecan diseases [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 45,
+"fields": {
+"pid": "FAD686A3-2020US",
+"title": "Evaluation of APN premixes for control of walnut diseases [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 46,
+"fields": {
+"pid": "FAD692A3-2020US",
+"title": "2020 APN premix for control of blueberry disease [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 47,
+"fields": {
+"pid": "FAD693A3-2019US",
+"title": "2019 APN premix for control of filbert diseases"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 48,
+"fields": {
+"pid": "FAD694A3-2020US",
+"title": "APN+DFZ premix for control of caneberry diseases [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 49,
+"fields": {
+"pid": "FAD713A3-2020US",
+"title": "LEX extend APN for soil use on fruiting veg [UNITED STATES]-Add Cleo"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 50,
+"fields": {
+"pid": "FAD730A3-2020US",
+"title": "LEX extend APN for soil use on leafy greens (Fusarium) add Cleo  [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 51,
+"fields": {
+"pid": "FAD741A3-2019US",
+"title": "APN + FDL for control of brassica diseases"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 52,
+"fields": {
+"pid": "FAD750A3-2019US",
+"title": "2019 APN+FLD Premix for control of onion disease"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 53,
+"fields": {
+"pid": "FAD750A3-2020US",
+"title": "2020 APN+FLD Premix for control of onion disease [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 54,
+"fields": {
+"pid": "FAD763A3-2020US",
+"title": "LEX Extend APN for soil use on cucurbits"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 55,
+"fields": {
+"pid": "FAD800A3-2020US",
+"title": "ADEPIDYN: Evaluate A23174D and A23174E for control of dollar spot"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 56,
+"fields": {
+"pid": "FAD801A3-2019US",
+"title": "Evaluation of ADEPIDYN fungicide mixtures for spring dead spot control in turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 57,
+"fields": {
+"pid": "FAD801A3-2020US",
+"title": "Evaluate ADEPIDYN mixtures on SDHI resistant Clarireedia strains"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 58,
+"fields": {
+"pid": "FAD801B3-2019US",
+"title": "Evaluation of ADEPIDYN fungicide mixtures for spring dead spot control in turfgrass - California"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 59,
+"fields": {
+"pid": "FAD802A3-2019US",
+"title": "Evaluate ADEPIDYN mixtures for control of dollar spot on fairways"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 60,
+"fields": {
+"pid": "FAD802A3-2020US",
+"title": "Evaluate ADEPIDYN mixtures on DMI resistant Clarireedia strains"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 61,
+"fields": {
+"pid": "FAD803A3-2020US",
+"title": "ADEPIDYN: Evaluate A23174D and A23174E for control of brown patch"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 62,
+"fields": {
+"pid": "FAD804A3-2020US",
+"title": "ADEPIDYN: Evaluate A23174D and A23174E for control of anthracnose"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 63,
+"fields": {
+"pid": "FAD805A3-2019US",
+"title": "Evaluation of fungicide mixtures for take-all root rot control in ultradwarf bermudagrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 64,
+"fields": {
+"pid": "FAD805A3-2020US",
+"title": "Evaluate new ADEPIDYN premix formulations for control of Drechslera leaf spot"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 65,
+"fields": {
+"pid": "FAD806A3-2019US",
+"title": "Evaluation of ADEPIDYN mixtures for Rhizoctonia zeae control in ultradwarf bermudagrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 66,
+"fields": {
+"pid": "FAD806A3-2020US",
+"title": "Evaluate new ADEPIDYN premix formulations for control of Bipolaris leaf spot"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 67,
+"fields": {
+"pid": "FAD807A3-2019US",
+"title": "Evaluate turf safety of ADEPIDYN mixtures applied to ultradwarf bermudagrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 68,
+"fields": {
+"pid": "FAD807A3-2020US",
+"title": "Evaluate new ADEPIDYN premix formulations for control of gray leaf spot"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 69,
+"fields": {
+"pid": "FAD808A3-2019US",
+"title": "Evaluation of ADEPIDYN mixtures for bipolaris leafspot control in ultradwarf bermudagrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 70,
+"fields": {
+"pid": "FAD808A3-2020US",
+"title": "Evaluate ADEPIDYN mixtures for control of brown patch on fairways"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 71,
+"fields": {
+"pid": "FAD809A3-2020US",
+"title": "Evaluate ADEPIDYN mixtures for control of dollar spot on fairways"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 72,
+"fields": {
+"pid": "FAD810A3-2020US",
+"title": "Evaluate turf safety of A22070C applied to bermudagrass on golf course fairways"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 73,
+"fields": {
+"pid": "FAD811B3-2019US",
+"title": "Preventative fairy ring control with ADEPIDYN tank mixes or increased difenoconazole rates on warm or cool season greens height turfgrass."
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 74,
+"fields": {
+"pid": "FAD812A3-2020US",
+"title": "Evaluate Posterity Elite (ADE+STL+FLZ+ASM) formulations and NMG-787 for preventative fairy ring control."
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 75,
+"fields": {
+"pid": "FAD813A3-2019US",
+"title": "Evaluate Posterity for control of Microdochium Patch"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 76,
+"fields": {
+"pid": "FAD813A3-2020US",
+"title": "Evaluate Posterity Elite (ADE+STL+FLZ+ASM) formulations and NMG-787 for curative fairy ring control."
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 77,
+"fields": {
+"pid": "FAD814A3-2019US",
+"title": "Field Evaluation of SDHI Dollar Spot Mutants against ADEPIDYN mixtures"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 78,
+"fields": {
+"pid": "FAD814A3-2020US",
+"title": "Evaluate Posterity Forte for preventative fairy ring control."
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 79,
+"fields": {
+"pid": "FAD815A3-2020US",
+"title": "Evaluate Posterity Forte for curative fairy ring control."
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 80,
+"fields": {
+"pid": "FAD816A3-2019US",
+"title": "Evaluation of ADEPIDYN formulations for spring dead spot control in turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 81,
+"fields": {
+"pid": "FAD816A3-2020US",
+"title": "Evaluation of ADEPIDYN mixtures for spring dead spot control in turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 82,
+"fields": {
+"pid": "FAD817A3-2020US",
+"title": "Evaluation of ADEPIDYN mixtures for bipolaris leafspot control in ultradwarf bermudagrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 83,
+"fields": {
+"pid": "FAD818A3-2020US",
+"title": "HOLD - Evaluation of ADEPIDYN and SOLATENOL mixtures for large patch control in warm-season turf"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 84,
+"fields": {
+"pid": "FAD819A3-2020US",
+"title": "Evaluation of ADEPIDYN mixtures for take-all root rot control in ultradwarf bermudagrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 85,
+"fields": {
+"pid": "FAD820A3-2020US",
+"title": "Evaluation of ADEPIDYN mixtures for leaf and sheath spot control in ultradwarf bermudagrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 86,
+"fields": {
+"pid": "FAD830A3-2020US",
+"title": "ADEPIDYN/Difenoconazole: POSTIVA foliar spray efficacy against botrytis of greenhouse ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 87,
+"fields": {
+"pid": "FAD831A3-2020US",
+"title": "ADEPIDYN/Difenoconazole: POSTIVA foliar spray efficacy against mildews and leaf spots of greenhouse or nursery ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 88,
+"fields": {
+"pid": "FAD831B3-2020US",
+"title": "ADEPIDYN/Difenoconazole: POSTIVA foliar spray efficacy against mildews and leaf spots of nursery ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 89,
+"fields": {
+"pid": "FAD831C3-2020US",
+"title": "ADEPIDYN/Difenoconazole: POSTIVA commercial foliar spray efficacy against mildews and leaf spots of nursery ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 90,
+"fields": {
+"pid": "FAD831D3-2020US",
+"title": "ADEPIDYN/Difenoconazole: POSTIVA drench efficacy against fusarium of greenhouse or nursery ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 91,
+"fields": {
+"pid": "FAD832A3-2020US",
+"title": "ADEPIDYN/ Difenoconazole: POSTIVA foliar spray efficacy against bacterial pathogens of greenhouse ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 92,
+"fields": {
+"pid": "FAD833A3-2020US",
+"title": "ADEPIDYN/Difenoconazole: POSTIVA cold fog efficacy against botrytis and powdery mildews of greenhouse ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 93,
+"fields": {
+"pid": "FAD834A3-2019US",
+"title": "ADEPIDYN/Difenoconazole: A20259G cold fog efficacy against powdery mildews of greenhouse ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 94,
+"fields": {
+"pid": "FAD834A3-2020US",
+"title": "ADEPIDYN/Difenoconazole: POSTIVA foliar application crop safety on ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 95,
+"fields": {
+"pid": "FAD834B3-2020US",
+"title": "ADEPIDYN/Difenoconazole: POSTIVA drench application crop safety on ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 96,
+"fields": {
+"pid": "FAD836B3-2019US",
+"title": "ADEPIDYN/Difenoconazole: A20259G soil drench crop safety on ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 97,
+"fields": {
+"pid": "FAD961A3-2020US",
+"title": "Evaluate APN + PTZ for control of sunflower diseases [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 98,
+"fields": {
+"pid": "FAISSUP4-2019US",
+"title": "Place Holder for Fall 2019 Trials TBD"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 99,
+"fields": {
+"pid": "FAISSUP4-2020US",
+"title": "Evaluation of Miravis on Peanut"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 100,
+"fields": {
+"pid": "FDBBC011-2020US",
+"title": "Stage 2: Grapevine   Botrytis; ORION trials in NOAM 2020 Prt 1"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 101,
+"fields": {
+"pid": "FDBBC021-2020US",
+"title": "Stage 2: Grapevine   Botrytis; ORION trials in NOAM 2020 Prt 2"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 102,
+"fields": {
+"pid": "FDBFB031-2020US",
+"title": "Stage 2: Wheat   Fusarium; ORION trials in NOAM 2020  Prt 1"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 103,
+"fields": {
+"pid": "FDBFB041-2020US",
+"title": "Stage 2: Wheat   Fusarium; ORION trials in NOAM 2020  Prt 2"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 104,
+"fields": {
+"pid": "FDBPH011-2020US",
+"title": "STAGE 1: F-2017-005 and ORION post harvest tests [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 105,
+"fields": {
+"pid": "FDEVSUP4-2020US",
+"title": "Vero Beach Support to Digital Ag Project"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 106,
+"fields": {
+"pid": "FDI800A3-2020US",
+"title": "Evaluate DMI fungicides for control of anthracnose"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 107,
+"fields": {
+"pid": "FDI801A3-2020US",
+"title": "Evaluate DMI fungicides for control of dollar spot"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 108,
+"fields": {
+"pid": "FFD641Z3-2019US",
+"title": "Development of an Academy fogging formulation for post harvest use on pome"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 109,
+"fields": {
+"pid": "FFD660A4-2020US",
+"title": "Development of an Academy fogging formulation for post harvest use on pome [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 110,
+"fields": {
+"pid": "FJPCP013-2020US",
+"title": "Profiling activity against powdery mildew in cucurbits in USA"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 111,
+"fields": {
+"pid": "FJPGP013-2020US",
+"title": "Profiling activity against Powdery mildew in grape in United States"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 112,
+"fields": {
+"pid": "FMG100A3-2020US",
+"title": "NMG-787:CP for the control of soil borne diseases in Cotton"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 113,
+"fields": {
+"pid": "FMG101A3-2020US",
+"title": "NMG-787:CP for the control of Target Spot in Cotton"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 114,
+"fields": {
+"pid": "FMG360A3-2020US",
+"title": "CP for the control of diseases in peanut [Aspergillus]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 115,
+"fields": {
+"pid": "FMG420A3-2020US",
+"title": "NMG-787: CP for the control of diseases in sweet potato"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 116,
+"fields": {
+"pid": "FMG421A3-2020US",
+"title": "CP Cleo for the control of fusarium in sugar beets [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 117,
+"fields": {
+"pid": "FMG422A3-2020US",
+"title": "Evaluate NMG-787 for foliar diseases in sugarbeet"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 118,
+"fields": {
+"pid": "FMG440A3-2020US",
+"title": "Evaluate NMG-787 for the control of pineapple disease in sugarcane [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 119,
+"fields": {
+"pid": "FMG480A3-2020US",
+"title": "CP Cleo for the control of foliar diseaes in tobacco [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 120,
+"fields": {
+"pid": "FMG601A3-2020US",
+"title": "NMG-787: CP for the control of Fusarium in Strawberry"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 121,
+"fields": {
+"pid": "FMG603A3-2019US",
+"title": "NMG-787 CP for the control of Charcoal Rot in Strawberry"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 122,
+"fields": {
+"pid": "FMG603A3-2020US",
+"title": "NMG-787: CP for the control of Macrophomina (Charcoal Rot) in Strawberry"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 123,
+"fields": {
+"pid": "FMG620A3-2020US",
+"title": "CP Cleo for the control of foliar diseaes on young citrus [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 124,
+"fields": {
+"pid": "FMG720A3-2019US",
+"title": "Evaluation of NMG-787 for control of foliar diseases in carrot"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 125,
+"fields": {
+"pid": "FMG720A3-2020US",
+"title": "CP Cleo for the control of fusarium in carrot [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 126,
+"fields": {
+"pid": "FMG721A3-2020US",
+"title": "CP Cleo for the control of foliar diseases in carrot [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 127,
+"fields": {
+"pid": "FMG731A3-2019US",
+"title": "NMG-787 CP for the control of Fusarium oxysporum in Lettuce"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 128,
+"fields": {
+"pid": "FMG731A3-2020US",
+"title": "NMG-787: CP for the control of Stemphillium in spinach"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 129,
+"fields": {
+"pid": "FMG732A3-2020US",
+"title": "NMG-787: CP for the control of Powdery Mildew in Lettuce"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 130,
+"fields": {
+"pid": "FMG733A3-2020US",
+"title": "NMG-787: CP for the control of Sclerotinia in Lettuce"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 131,
+"fields": {
+"pid": "FMG734A3-2020US",
+"title": "NMG-787: CP for the control of foliar diseaes in Celery"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 132,
+"fields": {
+"pid": "FMG740A3-2019US",
+"title": "NMG-787 CP  for the control of Alternaria in Brassica"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 133,
+"fields": {
+"pid": "FMG741A3-2020US",
+"title": "NMG-787: CP for the control of foliar diseases in Brassica"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 134,
+"fields": {
+"pid": "FMG750A3-2019US",
+"title": "NMG-787 CP for the control of Alternaria porri/Botrytis cinerea in Onion"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 135,
+"fields": {
+"pid": "FMG750A3-2020US",
+"title": "NMG-787: CP for the control of Stemphillium in onion"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 136,
+"fields": {
+"pid": "FMG787A3-2019US",
+"title": "CP For the control powdery mildew of brassicas"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 137,
+"fields": {
+"pid": "FMGGR013-2020US",
+"title": "BioFungicide testing for Botrytis control (BORT)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 138,
+"fields": {
+"pid": "FMP200A3-2020US",
+"title": "Extend Revus for soil use on potato"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 139,
+"fields": {
+"pid": "FMP480A3-2020US",
+"title": "Extend Revus for soil use on tobacco"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 140,
+"fields": {
+"pid": "FMP600A3-2020US",
+"title": "Extend Revus for soil use on strawberry"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 141,
+"fields": {
+"pid": "FNP833A3-2020US",
+"title": "Eternity   Tea Tree Oil: evaluation of spray concentration and rate against botrytis in ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 142,
+"fields": {
+"pid": "FNP836A3-2020US",
+"title": "Evaluation of Scanit Technology for Ornamental Diseases"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 143,
+"fields": {
+"pid": "FOP600A3-2019US",
+"title": "Extend Revus for soil use on strawberry"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 144,
+"fields": {
+"pid": "FOP660A3-2020US",
+"title": "Evaluate efficacy of OXTP products for Phytophthora control in Avocado"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 145,
+"fields": {
+"pid": "FOP680A3-2020US",
+"title": "Evaluate efficacy of OXTP+ MFX mixture and other products for Phytophthora in Pecan"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 146,
+"fields": {
+"pid": "FOP681A3-2020US",
+"title": "Evaluate efficacy of OXTP+ MFX mixture and other products for Phytophthora in Filbert"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 147,
+"fields": {
+"pid": "FOP682A3-2020US",
+"title": "Evaluate efficacy of OXTP+MFX and other products for Phytophthora control in Walnut"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 148,
+"fields": {
+"pid": "FOP683A3-2020US",
+"title": "Evaluate efficacy of OXTP products for Phytophthora control in Pomegranate"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 149,
+"fields": {
+"pid": "FOP684A3-2020US",
+"title": "Evaluate efficacy of OXTP+MFX mixture and other products on Phytophthora in pistachio"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 150,
+"fields": {
+"pid": "FOP685A3-2020US",
+"title": "Evaluation efficacy of OXTP+MFX and other products for Phytophthora control in Almond"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 151,
+"fields": {
+"pid": "FOP690A3-2020US",
+"title": "Evaluate efficacy of OXTP+MFX and other products for Phytophthora control in blueberry"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 152,
+"fields": {
+"pid": "FOP691A3-2020US",
+"title": "Evaluate efficacy of OXTP+MFX and other products for Phytophthora in Raspberry"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 153,
+"fields": {
+"pid": "FOP760A3-2020US",
+"title": "Evaluate OXTP products for downy mildew in cucurbits"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 154,
+"fields": {
+"pid": "FOP960A3-2020US",
+"title": "Evaluate efficacy of OXTP products for Downy mildew in hop"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 155,
+"fields": {
+"pid": "FOP961A3-2020US",
+"title": "Evaluate efficacy of OXTP+MFX mixture and other products on Phytophthora in Hops"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 156,
+"fields": {
+"pid": "FOR800A2-2020US",
+"title": "Evaluate ORION for control of anthracnose on annual bluegrass putting greens"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 157,
+"fields": {
+"pid": "FOR801A2-2020US",
+"title": "Evaluate ORION for control of Biploaris leaf spot in bermudagrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 158,
+"fields": {
+"pid": "FOR802A2-2020US",
+"title": "Evaluate ORION for control of dollar spot on fairway height turf"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 159,
+"fields": {
+"pid": "FOR803A2-2020US",
+"title": "Evaluate ORION for control of take-all in ultradwarf bermudagrass greens"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 160,
+"fields": {
+"pid": "FOR830A2-2020US",
+"title": "Efficacy of ORION against botrytis blight and powdery mildew of ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 161,
+"fields": {
+"pid": "FOR830A3-2019US",
+"title": "Efficacy of ORION against pathogenic fungi of ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 162,
+"fields": {
+"pid": "FOR830B2-2020US",
+"title": "Efficacy of ORION and adjuvants against diseases of ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 163,
+"fields": {
+"pid": "FOR830C2-2020US",
+"title": "Efficacy of ORION and adjuvants against fuarium of ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 164,
+"fields": {
+"pid": "FPH801A4-2019US",
+"title": "Evaluate Appear II for bermudagrass summer decline"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 165,
+"fields": {
+"pid": "FPH803A4-2019US",
+"title": "Evaluate Appear II and ASM for winter survival in bermudagrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 166,
+"fields": {
+"pid": "FPH804A4-2019US",
+"title": "Evaluate Appear II and Daconil Action for survival of Poa annua under heat stress"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 167,
+"fields": {
+"pid": "FSF150A3-2020US",
+"title": "Evaluation of Syngenta fungicides for efficacy against Septoria and rust on wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 168,
+"fields": {
+"pid": "FSF800A4-2020US",
+"title": "SOLATENOL: Evaluation of A22835 mixtures for anthracnose control in creeping bentgass and annual bluegrass turf"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 169,
+"fields": {
+"pid": "FSF801A3-2019US",
+"title": "Evaluate solatenol mixtures for control of snow mold"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 170,
+"fields": {
+"pid": "FSF801A4-2020US",
+"title": "SOLATENOL: Evaluation of A22835 mixtures for brown patch control in creeping bentgass turf"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 171,
+"fields": {
+"pid": "FSF802A4-2020US",
+"title": "SOLATENOL: Evaluation of A22835 mixtures for dollar spot control in creeping bentgass and annual bluegrass turf"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 172,
+"fields": {
+"pid": "FSF803A4-2020US",
+"title": "SOLATENOL: Evaluation of A22835 mixtures for brown ring patch control in creeping bentgass and annual bluegrass turf"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 173,
+"fields": {
+"pid": "FSF804A3-2020US",
+"title": "HOLD - Evaluate Solatenol mixtures for control of snow mold"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 174,
+"fields": {
+"pid": "FSF805A4-2020US",
+"title": "Evaluation of SOLATENOL + azoxystrobin granular formulations for brown patch control in tall fescue turf"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 175,
+"fields": {
+"pid": "FTB420Z4-2019US",
+"title": "Efficacy trials to evaluate TBZ applied post harvest for control of black rot in sweet potato (A Variant)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 176,
+"fields": {
+"pid": "FTB420Z4-2020US",
+"title": "Efficacy trials to evaluate TBZ applied post harvest for control of black rot [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 177,
+"fields": {
+"pid": "FTB421Z4-2019US",
+"title": "Efficacy trials to evaluate TBZ applied post harvest for control of Rhizopus rot in sweet potato (B Variant)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 178,
+"fields": {
+"pid": "FUV020A4-2020US",
+"title": "UAV Corn Yield Prediction Project 2020 US: Fungicide"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 179,
+"fields": {
+"pid": "FUV021A4-2020US",
+"title": "UAV Corn Yield Prediction Project 2020 US: BorderEffect"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 180,
+"fields": {
+"pid": "H001MSAD-2020US",
+"title": "Corn Brand Ladder 2 Pass Comparison"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 181,
+"fields": {
+"pid": "H002BIAD-2020US",
+"title": "Acuron - Rates Matter - Priority #1 - waterhemp   #2 ragweed "
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 182,
+"fields": {
+"pid": "H003MSAD-2020US",
+"title": "University Corn Herbicide Shootout - brand ladder data"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 183,
+"fields": {
+"pid": "H004MSAD-2020US",
+"title": "Syngenta Program Approach"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 184,
+"fields": {
+"pid": "H004PQAD-2020US",
+"title": "Gramoxone SL 3.0 burndown"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 185,
+"fields": {
+"pid": "H005MSAD-2020US",
+"title": "A.I. bareground Shoot out"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 186,
+"fields": {
+"pid": "H006MSAD-2020US",
+"title": "Acuron Days of Residual vs. Competitors"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 187,
+"fields": {
+"pid": "H007SMAD-2020US",
+"title": "Acuron and Dual Crop safety vs. Competitors"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 188,
+"fields": {
+"pid": "H050FMAD-2020US",
+"title": "Prefix   Boundary and Broadaxe tankmixes versus competitors"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 189,
+"fields": {
+"pid": "H051SMAD-2020US",
+"title": "XtendFlex beans: Tavium crop safety and control with XtendFlex targeting waterhemp   and Giant Rag"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 190,
+"fields": {
+"pid": "H052FMAD-2020US",
+"title": "Prefix Crop safety and tank mix benefit with Enlist"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 191,
+"fields": {
+"pid": "H053SMAD-2020US",
+"title": "Value of  of s-moc on waterhemp - plant back"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 192,
+"fields": {
+"pid": "H054SMAD-2020US",
+"title": "Value of increased s-moc rates post emerge in soya - waterhemp"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 193,
+"fields": {
+"pid": "H055FPAD-2020US",
+"title": "Fusilade DX w/Enlist for Volunteer Corn - adjuvant comparison"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 194,
+"fields": {
+"pid": "H056SMAD-2020US",
+"title": "Soybean Herbicide Waterhemp Trial"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 195,
+"fields": {
+"pid": "H057SMAD-2020US",
+"title": "Soybean Herbicide demonstration"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 196,
+"fields": {
+"pid": "H058SMAD-2020US",
+"title": "Tavium tank mix pre and post options enertered in University shoot outs."
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 197,
+"fields": {
+"pid": "H059PQAD-2020US",
+"title": "Gramoxone SL 3.0 burndown"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 198,
+"fields": {
+"pid": "H059SMAD-2020US",
+"title": "Tank Mix partners in Enlist system"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 199,
+"fields": {
+"pid": "H060SMAD-2020US",
+"title": "Syngenta soybean herbicide in an Enlist E3 system"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 200,
+"fields": {
+"pid": "H061SMAD-2020US",
+"title": "Soybean herbicide Demonstration for Tavium"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 201,
+"fields": {
+"pid": "H062SMAD-2020US",
+"title": "Brand ladder influence for Palmer Control in Soybean"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 202,
+"fields": {
+"pid": "H070SMAD-2020US",
+"title": "Soybean Syngenta Program Approach"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 203,
+"fields": {
+"pid": "H420PQAD-2020US",
+"title": "Gramaxone plus Dual post directed in Sugarbeet for waterhemp control"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 204,
+"fields": {
+"pid": "HAISSUP4-2019US",
+"title": "Evaluation of Axial Bold on Wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 205,
+"fields": {
+"pid": "HAISSUP4-2020US",
+"title": "Evaluate Acuron XR and Acuron GT vs competitors for weed control in corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 206,
+"fields": {
+"pid": "HAK150A3-2020US",
+"title": "AKIRA Stage 3 NA 2020: Evaluate Broadleaf Efficacy and Crop Response with A22896B in Cereals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 207,
+"fields": {
+"pid": "HAK150B3-2020US",
+"title": "AKIRA Stage 3 NA 2020: Evaluate Broadleaf Efficacy and Crop Response with A22896B in Cereals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 208,
+"fields": {
+"pid": "HAK151A3-2020US",
+"title": "AKIRA Stage 3 NA 2020: Broadleaf Efficacy and Crop Response with A22896B in Cereals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 209,
+"fields": {
+"pid": "HAK152A3-2020US",
+"title": "AKIRA Stage 3 NA 2020: Evaluate the Influence of Growth Stage on Cereal Tolerance to A22896B (Weed-Free)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 210,
+"fields": {
+"pid": "HAK153A3-2020US",
+"title": "AKIRA Stage 3 NA 2020: Evaluate Varietal Response of Cereals to A22896B  (Weed-Free)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 211,
+"fields": {
+"pid": "HAK153B3-2020US",
+"title": "AKIRA Stage 3 NA 2020: Evaluate Varietal Response of Cereals to A22896B  (Weed-Free)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 212,
+"fields": {
+"pid": "HAK154A3-2020US",
+"title": "AKIRA Stage 3 NA 2020: Evaluation of A22896B Plant Back Intervals for Rotational Crops"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 213,
+"fields": {
+"pid": "HAK155A3-2020US",
+"title": "AKIRA Stage 3 NA 2020: Evaluate the Influence of Broadleaf Weed Height on A22896B Efficacy"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 214,
+"fields": {
+"pid": "HAK155B3-2020US",
+"title": "AKIRA Stage 3 NA 2020: Evaluate the Influence of Broadleaf Weed Height on A22896B Efficacy"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 215,
+"fields": {
+"pid": "HAK157A3-2020US",
+"title": "AKIRA TBD Cereals: Evaluate AKIRA Cross-Spectrum Premix"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 216,
+"fields": {
+"pid": "HAK800A3-2020US",
+"title": "Evaluate A22860A + A22435A for Weed Control in Warm Season Turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 217,
+"fields": {
+"pid": "HAK801A3-2020US",
+"title": "A22860A: Evaluate Tank-Mix Partners for Broad Spectrum Weed Control in Bermudagrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 218,
+"fields": {
+"pid": "HAK801B3-2020US",
+"title": "A22860A: Evaluate Tank-Mix Partners for Broad Spectrum Weed Control in St. Augustinegrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 219,
+"fields": {
+"pid": "HAK801C3-2020US",
+"title": "A22860A: Evaluate Tank-Mix Partners for Broad Spectrum Weed Control in St. Augustinegrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 220,
+"fields": {
+"pid": "HAK801D3-2020US",
+"title": "A22860A: Evaluate Tank-Mix Partners for Goosegrass Control - Round 2"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 221,
+"fields": {
+"pid": "HAK802A3-2020US",
+"title": "SYN548121: Evaluation of A22860A for perennial ryegrass removal in creeping bentgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 222,
+"fields": {
+"pid": "HAK803A3-2020US",
+"title": "SYN548121: Evaluation of A22860A for creeping bentgrass safety"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 223,
+"fields": {
+"pid": "HAK961A3-2020US",
+"title": "AKIRA Stage 3 NA 2020: Evaluation of AKIRA Minor Crop Uses"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 224,
+"fields": {
+"pid": "HAKI64A3-2019US",
+"title": "AKIRA Stage 3 NA 2019: Evaluation AKIRA + BXN Premix on Crop Rotation (Re-Crop) Following Cereals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 225,
+"fields": {
+"pid": "HAP830A3-2020US",
+"title": "Evaluate SYN547958 for Control of Aquatic Weeds"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 226,
+"fields": {
+"pid": "HBI001A4-2020US",
+"title": "Acuron XR and Acuron Flexi XR:  Residual control in bareground - irrigation required"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 227,
+"fields": {
+"pid": "HBI002A4-2020US",
+"title": "Acuron XR and Acuron Flexi XR:  Evaluation of weed control   crop tolerance   and yield - University"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 228,
+"fields": {
+"pid": "HBI002B4-2020US",
+"title": "Acuron XR and Acuron Flexi XR:  Evaluation of weed control   crop tolerance   and yield - University"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 229,
+"fields": {
+"pid": "HBI002C4-2020US",
+"title": "Acuron XR and Acuron Flexi XR:  Evaluation of weed control   crop tolerance   and yield - University"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 230,
+"fields": {
+"pid": "HBI003A4-2020US",
+"title": "Acuron XR and Acuron Flexi:  Evaluation of crop tolerance in sweet corn and popcorn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 231,
+"fields": {
+"pid": "HBI003B4-2020US",
+"title": "Acuron XR and Acuron Flexi:  Evaluation of crop tolerance in sweet corn and popcorn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 232,
+"fields": {
+"pid": "HBI003C4-2020US",
+"title": "Acuron XR and Acuron Flexi:  Evaluation of crop tolerance in sweet corn and popcorn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 233,
+"fields": {
+"pid": "HBI004A4-2020US",
+"title": "Acuron XR and Acuron Flexi:  Evaluation of crop tolerance in seed corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 234,
+"fields": {
+"pid": "HBI004B4-2020US",
+"title": "Acuron XR and Acuron Flexi:  Evaluation of crop tolerance in seed corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 235,
+"fields": {
+"pid": "HBI004C4-2020US",
+"title": "Acuron XR and Acuron Flexi:  Evaluation of crop tolerance in seed corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 236,
+"fields": {
+"pid": "HBI005A4-2020US",
+"title": "Acuron GT:  Evaluation of weed control   crop safety   and yield"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 237,
+"fields": {
+"pid": "HBI005B4-2020US",
+"title": "Acuron GT:  Evaluation of weed control   crop safety   and yield"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 238,
+"fields": {
+"pid": "HBI006A4-2020US",
+"title": "Acuron GT: Evaluation of crop safety and yield - weed free"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 239,
+"fields": {
+"pid": "HBI007A4-2020US",
+"title": "Acuron GT:  Evaluation of weed control   crop tolerance and yield in a one pass system - University"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 240,
+"fields": {
+"pid": "HBI008A4-2020US",
+"title": "Acuron GT:  Evaluation of weed control   crop tolerance and yield in a two pass system - Mid and South University"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 241,
+"fields": {
+"pid": "HBI008B4-2020US",
+"title": "Acuron GT:  Evaluation of weed control   crop tolerance and yield in a two pass system - North University"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 242,
+"fields": {
+"pid": "HBI961E4-2019US",
+"title": "Bicyclopyrone:  Crop tolerance and weed control in broccoli"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 243,
+"fields": {
+"pid": "HBI961E4-2020US",
+"title": "NA CP: US Bicyclopyrone crop tolerance and efficacy in minor crops (Broccoli)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 244,
+"fields": {
+"pid": "HBI961K4-2019US",
+"title": "Bicyclopyrone:  Crop tolerance and weed control in garlic - 2019 Fall Initiated"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 245,
+"fields": {
+"pid": "HBI961K4-2020US",
+"title": "NA CP: US Bicyclopyrone crop tolerance and efficacy in minor crops (Garlic)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 246,
+"fields": {
+"pid": "HBI961M4-2020US",
+"title": "NA CP: US Bicyclopyrone crop tolerance and efficacy in minor crops (Watermelon)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 247,
+"fields": {
+"pid": "HBI961N4-2020US",
+"title": "NA CP: US Bicyclopyrone crop tolerance and efficacy in minor crops (Onion)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 248,
+"fields": {
+"pid": "HBI961S4-2020US",
+"title": "NA CP: US Bicyclopyrone crop tolerance and efficacy in minor crops (Sweet Potato)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 249,
+"fields": {
+"pid": "HBI961T4-2019US",
+"title": "Bicyclopyrone:  Crop tolerance and efficacy in timothy"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 250,
+"fields": {
+"pid": "HBI961T4-2020US",
+"title": "NA CP: US Bicyclopyrone crop tolerance and efficacy in minor crops (Timothy)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 251,
+"fields": {
+"pid": "HBI962W4-2019US",
+"title": "Bicyclopyrone:  Crop tolerance and efficacy in wormwood - Fall 2019 initiated"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 252,
+"fields": {
+"pid": "HCER01S1-2020US",
+"title": "CESAR NA 2020: Field Trials"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 253,
+"fields": {
+"pid": "HCOR53S1-2020US",
+"title": "HOSTA 1.2 NA 2020: Corn POST (TS)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 254,
+"fields": {
+"pid": "HCOR54SB-2020US",
+"title": "LOYANT - NA- 2020: Evaluation of Loyant (Florpyrauxifen-benzyl) + CREST for crop safety when applied as E-Post in corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 255,
+"fields": {
+"pid": "HCOR55SB-2020US",
+"title": "LOYANT - NA - 2020: Evaluation of Loyant (Florpyrauxifen-benzyl) + ISOXADIFEN for crop safety when applied as E-Post in corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 256,
+"fields": {
+"pid": "HCOR56SB-2020US",
+"title": "Rinskor Mixtures POST - Corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 257,
+"fields": {
+"pid": "HCOR58SB-2020US",
+"title": "LOYANT - NA - 2020: Evaluate Loyant (Florpyrauxifen-benzyl) + CREST for crop safety and weed control in corn when applied E-POST"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 258,
+"fields": {
+"pid": "HCOR60S1-2020US",
+"title": "NEWTON: NA 2020 (SDPS) Field Trials in Corn/Soy in PRE"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 259,
+"fields": {
+"pid": "HCOR61S1-2020US",
+"title": "NEWTON: NA 2020 (SDPS) Field Trials in Corn in POST (TS)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 260,
+"fields": {
+"pid": "HCOR64S1-2020US",
+"title": "H-2020-001:  Target Screen- Evaluation of PRE grass efficacy and corn tolerance"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 261,
+"fields": {
+"pid": "HCOR65S1-2020US",
+"title": "H-2020-001: Evaluation of PRE grass efficacy and corn tolerance in crop"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 262,
+"fields": {
+"pid": "HDES50W1-2020US",
+"title": "H2018-006: Desiccation Field trials NA S/S 2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 263,
+"fields": {
+"pid": "HDES51W1-2020US",
+"title": "H2018-006: Desiccation Field trials NA S/S 2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 264,
+"fields": {
+"pid": "HDEVSUP4-2020US",
+"title": "CIPHER Spray Quality '593"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 265,
+"fields": {
+"pid": "HFP830A4-2019US",
+"title": "Fluazifop-P-butyl: Evaluation of A12460A spot applications to aquatic and wetland areas"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 266,
+"fields": {
+"pid": "HMN800A3-2020US",
+"title": "A18575F: Evaluate Safening of Various Herbicides for Use in St. Augustinegrass /Tall Fescue/Zoysia - Common Bermuda removal"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 267,
+"fields": {
+"pid": "HMN800B3-2020US",
+"title": "A18575F: Evaluate Safening of Various Herbicides for Use in St. Augustinegrass - Torpedograss removal"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 268,
+"fields": {
+"pid": "HMN800C3-2020US",
+"title": "A18575F: Evaluate Safening of Various Herbicides for Use in Tall Fescue - Common Bermudagrass Control"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 269,
+"fields": {
+"pid": "HMN800D3-2020US",
+"title": "A18575F: Evaluate Safening of Various Herbicides for Use in St. Augustinegrass - Tropical Signalgrass Control"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 270,
+"fields": {
+"pid": "HMN800E3-2020US",
+"title": "A18575F: Evaluate Safening of Fusilade II for Use in Zoysia - Common Bermudagrass Control"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 271,
+"fields": {
+"pid": "HMN800F3-2020US",
+"title": "A18575F: Evaluate Safening of Fusilade II for Use in Seashore Paspalum"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 272,
+"fields": {
+"pid": "HMN800G3-2020US",
+"title": "A18575F: Evaluate Safening of Florpyrauxifen for Use in Seashore Paspalum"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 273,
+"fields": {
+"pid": "HMN800H3-2020US",
+"title": "A18575F: Evaluate Safening of Various Herbicides for Use in St. Augustinegrass - Tropical Signalgrass Control (Round 2)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 274,
+"fields": {
+"pid": "HMN800I3-2020US",
+"title": "A18575F: Evaluate Safening of Ronstar FLO"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 275,
+"fields": {
+"pid": "HMN800J3-2020US",
+"title": "A18575F: Evaluate Safening of Axial Bold for Use in St. Augustinegrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 276,
+"fields": {
+"pid": "HMN801A3-2020US",
+"title": "A18575F: Evaluate Seed Treatments and Broadcast Soil Treatments for Safening Against PRE Herbicides  Greenhouse - Pre - POC"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 277,
+"fields": {
+"pid": "HMN801B3-2020US",
+"title": "A18575F: Evaluate Seed Treatments and Broadcast Soil Treatments for Safening Against POST Herbicides  Greenhouse - Post - POC"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 278,
+"fields": {
+"pid": "HMN801C3-2020US",
+"title": "A18575F: Evaluate Seed Treatments and Broadcast Soil Treatments for Herbicide Safening and Weed Control  Field - POC"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 279,
+"fields": {
+"pid": "HMS003A4-2020US",
+"title": "Mesotrione + bicyclopyrone + s-metolachlor + Group 15 concepts for preemergence weed control in corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 280,
+"fields": {
+"pid": "HMS003B4-2020US",
+"title": "MST + BIR + SMOC versus MST + BIR + PSX  preemergence weed control in corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 281,
+"fields": {
+"pid": "HMS004A4-2020US",
+"title": "Mesotrione + s-metolachlor + Group 15 concepts for preemergence weed control in corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 282,
+"fields": {
+"pid": "HMS006A4-2020US",
+"title": "Halex GT + Pyridate:  Evaluation of premix compared to Halex GT   Acuron GT and competitors in GT corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 283,
+"fields": {
+"pid": "HMS007A4-2020US",
+"title": "Mesotrione + bicyclopyrone + s-metolachlor + Group 15 concepts for residual control - bareground (irrigation required)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 284,
+"fields": {
+"pid": "HMS008A4-2020US",
+"title": "Mesotrione + s-metolachlor + Group 15 concepts for residual control - bareground (irrigation required)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 285,
+"fields": {
+"pid": "HMS067A4-2020US",
+"title": "A22089B: Crop Tolerance and Yield - LibertyLink GT27 soybeans - Coarse Soil (weed free)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 286,
+"fields": {
+"pid": "HMS067B4-2020US",
+"title": "A22089B: Crop Tolerance and Yield - LibertyLink GT27 soybeans - Medium Soil (weed free)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 287,
+"fields": {
+"pid": "HMS067C4-2020US",
+"title": "A22089B: Crop Tolerance and Yield - LibertyLink GT27 soybeans - Fine Soil (weed free)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 288,
+"fields": {
+"pid": "HMS068A4-2020US",
+"title": "A22089B: Crop tolerance and yield in LibertyLink GT27 soybeans - coarse soil"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 289,
+"fields": {
+"pid": "HMS068B4-2020US",
+"title": "A22089B: Crop tolerance and yield in LibertyLink GT27 soybeans - medium soil"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 290,
+"fields": {
+"pid": "HMS068C4-2020US",
+"title": "A22089B: Crop tolerance and yield in LibertyLink GT27 soybeans - fine soil"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 291,
+"fields": {
+"pid": "HNSH50S1-2020US",
+"title": "LG NA 2020 - NSH SOLAR"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 292,
+"fields": {
+"pid": "HNSH50W1-2020US",
+"title": "CIPHER NA AW/2020 - Fall application"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 293,
+"fields": {
+"pid": "HNSH51S1-2020US",
+"title": "CIPHER NA SS/2020 - Evaluation of new analogs"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 294,
+"fields": {
+"pid": "HNSH51W1-2020US",
+"title": "CIPHER 2020 NA: Fall mixture efficacy trials"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 295,
+"fields": {
+"pid": "HNSH52S1-2020US",
+"title": "CIPHER NA SS/2020 - Solo Formulation"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 296,
+"fields": {
+"pid": "HNSH53S1-2020US",
+"title": "CIPHER NA SS/2020 - Solo and Potential Pre-mixtures"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 297,
+"fields": {
+"pid": "HNSH54S1-2020US",
+"title": "CIPHER NA SS/2020 - Adjuvants"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 298,
+"fields": {
+"pid": "HNSH55S1-2020US",
+"title": "CIPHER NA SS/2020 - Plantback Field Trials"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 299,
+"fields": {
+"pid": "HNSH56S1-2020US",
+"title": "CIPHER SS2020 NA: CIPHER Weed Bounty Protocol"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 300,
+"fields": {
+"pid": "HNSH57S1-2020US",
+"title": "CIPHER NA SS/2020 - Commercial TMX partners"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 301,
+"fields": {
+"pid": "HNSH58S1-2020US",
+"title": "H2018-005 (ex LIC002): NA 2020 Field Trials in PPBD"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 302,
+"fields": {
+"pid": "HNSH59S1-2020US",
+"title": "CIPHER Dissipation Study"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 303,
+"fields": {
+"pid": "HPQ101A4-2020US",
+"title": "BRT Efficacy Trials"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 304,
+"fields": {
+"pid": "HPQ250A4-2019US",
+"title": "Gramoxone 3LB (A12837AM) - Evaluation of a new solo paraquat formulation - University"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 305,
+"fields": {
+"pid": "HPQ700A4-2019US",
+"title": "Fall Burndown ahead of Pulses"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 306,
+"fields": {
+"pid": "HPRC50S1-2020US",
+"title": "CIPHER NA 2020: Evaluation of Log Sprayers to Develop Weed Specific Dose rates for Cipher"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 307,
+"fields": {
+"pid": "HPRC51S1-2020US",
+"title": "CIPHER NA 2020: Evaluation of Pulse Width Modulation to Develop Weed Specific Dose rates for Cipher"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 308,
+"fields": {
+"pid": "HPRC52S1-2020US",
+"title": "CIPHER NA 2020: Proof of Concept Testing Cipher Efficacy through See and Spray System [Weed-IT]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 309,
+"fields": {
+"pid": "HPX152A4-2019US",
+"title": "Axial Bold - University testing program in wheat and barley"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 310,
+"fields": {
+"pid": "HRIC20S1-2020US",
+"title": "HOSTA 1.2 NA 2020: ECHCG early stage control in Rice"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 311,
+"fields": {
+"pid": "HRIC21S1-2020US",
+"title": "HOSTA 1.2 NA 2020: ECHCG late stage control in Rice"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 312,
+"fields": {
+"pid": "HRIC22S1-2020US",
+"title": "Cyclopyranil - Profiling in Rice - US 2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 313,
+"fields": {
+"pid": "HRIC23S1-2020US",
+"title": "RHEA: efficacy of new analogues in L-post grasses"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 314,
+"fields": {
+"pid": "HRIC24S1-2020US",
+"title": "Cyclopyranil - Profiling in Rice - US 2020 -WSR"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 315,
+"fields": {
+"pid": "HRIC25S1-2020US",
+"title": "H-2020-001: Evaluation of PRE grass efficacy and rice tolerance"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 316,
+"fields": {
+"pid": "HS1800A1-2020US",
+"title": "CIPHER: Evaluation of non-selective weed control in turf"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 317,
+"fields": {
+"pid": "HS1810A1-2020US",
+"title": "CIPHER: Evaluate Low Rates for Selective Weed Control in Turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 318,
+"fields": {
+"pid": "HS1830A1-2020US",
+"title": "CIPHER: Evaluating Efficacy on Grass and Broadleaf Weeds in Ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 319,
+"fields": {
+"pid": "HSM010A4-2020US",
+"title": "Evaluate L-glufosinate for crop safety and weed control (TS)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 320,
+"fields": {
+"pid": "HSM050A4-2020US",
+"title": "S-MOC + Metribuzin + Cloransulam efficacy and crop safety in soybeans"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 321,
+"fields": {
+"pid": "HSM050B4-2020US",
+"title": "S-MOC + Metribuzin + Cloransulam Efficacy and Crop Safety in Soybean (University - medium soil)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 322,
+"fields": {
+"pid": "HSM050C4-2020US",
+"title": "S-MOC + Metribuzin + Cloransulam Efficacy and Crop Safety in Soybean (University - fine soil)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 323,
+"fields": {
+"pid": "HSM051A4-2020US",
+"title": "S-MOC + Metribuzin + Cloransulam efficacy and crop safety in no-till soybeans"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 324,
+"fields": {
+"pid": "HSM052A4-2020US",
+"title": "S-MOC + Metribuzin + Cloransulam Efficacy and Crop Safety in Conventional Till Soybean (Coarse Soil)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 325,
+"fields": {
+"pid": "HSM052B4-2020US",
+"title": "S-MOC + Metribuzin + Cloransulam Efficacy and Crop Safety in Conventional Till Soybean (Medium)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 326,
+"fields": {
+"pid": "HSM052C4-2020US",
+"title": "S-MOC + Metribuzin + Cloransulam Efficacy and Crop Safety in Conventional Till Soybean (Fine)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 327,
+"fields": {
+"pid": "HSM053A4-2020US",
+"title": "S-MOC + 2  4-D Premix: Evaluate Efficacy and Crop Safety in Enlist E3 Soybean"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 328,
+"fields": {
+"pid": "HSM054A4-2020US",
+"title": "Evaluation of an s-metolachlor + glufosinate premix for efficacy and crop safety in soybean"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 329,
+"fields": {
+"pid": "HSM055A4-2020US",
+"title": "S-metolachlor + 2  4-D Choline: Evaluate Efficacy and Crop Safety in Enlist E3 Soybean"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 330,
+"fields": {
+"pid": "HSM102A4-2020US",
+"title": "SMOC + 2  4-D premix: Efficacy and crop safety in Enlist Cotton"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 331,
+"fields": {
+"pid": "HSM103A4-2020US",
+"title": "Evaluation of an s-metolachlor + glufosinate premix for efficacy and crop safety in cotton"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 332,
+"fields": {
+"pid": "HSOY50S1-2020US",
+"title": "KATO: Evaluate new formulations of KATO on perennial grasses - SORHA (SOLO)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 333,
+"fields": {
+"pid": "HSOY51S1-2020US",
+"title": "KATO: Evaluate new formulations of KATO on annual grasses in soybean (SOLO)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 334,
+"fields": {
+"pid": "HSOY52S1-2020US",
+"title": "KATO: Evaluate KATO efficacy on ACCase-R LOLMU"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 335,
+"fields": {
+"pid": "HSOY53S1-2020US",
+"title": "KATO: Evaluate best partner to improve KATO effficacy on late post grasses in PPBD (ready mix-TS)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 336,
+"fields": {
+"pid": "HSOY54S1-2020US",
+"title": "KATO: Evaluate best partner to improve KATO efficacy at OTT in soybean to control key grasses (ready mix)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 337,
+"fields": {
+"pid": "HSOY55S1-2020US",
+"title": "KATO: Test different adjuvants in mixture with KATO to control key grasses in soybean"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 338,
+"fields": {
+"pid": "HSOY56S1-2020US",
+"title": "KATO: Evaluate antagonism between KATO mixtures with auxins   GLU and GLY (TS)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 339,
+"fields": {
+"pid": "HSOY57S1-2020US",
+"title": "KATO: Evaluate new formulations of KATO on annual grasses in soybean (SOLO-TS)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 340,
+"fields": {
+"pid": "HTF800A4-2020US",
+"title": "Trifloxysulfuron + Metcamifen: Evaluation of weed control and turf safety- St. Augustinegrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 341,
+"fields": {
+"pid": "HTF801A4-2020US",
+"title": "Trifloxysulfuron + Metcamifen: Evaluation of weed control and turf safety- Centipedegrass and Kikuyugrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 342,
+"fields": {
+"pid": "HTF802A4-2018US",
+"title": "Trifloxysulfuron: Evaluation of A22435A for Poa annua control in Bermudagrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 343,
+"fields": {
+"pid": "HTF803A4-2019US",
+"title": "Trifloxysulfuron + Metcamifen: Evaluation of Grassy Weed Control in Warm-Season Turf"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 344,
+"fields": {
+"pid": "HTF804A4-2019US",
+"title": "Evaluate biokinetics of Monument + Crest in St. Augustinegrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 345,
+"fields": {
+"pid": "HUV020A4-2020US",
+"title": "UAV Corn Yield Prediction Project 2020 US: Herbicide"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 346,
+"fields": {
+"pid": "I001THAD-2020US",
+"title": "Endigo ZCX for WCR  and Japanese beetle control - Corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 347,
+"fields": {
+"pid": "I002TEAD-2020US",
+"title": "Force Evo on Field Corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 348,
+"fields": {
+"pid": "I002THAD-2020US",
+"title": "Endigo ZCX for corn leaf aphid and CRW adult control"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 349,
+"fields": {
+"pid": "I050THAD-2020US",
+"title": "Endigo ZCX for Japanese Beetle & other soy insects"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 350,
+"fields": {
+"pid": "I150THAD-2020US",
+"title": "Endigo ZCX for grasshopper and aphid control in wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 351,
+"fields": {
+"pid": "I320THAD-2020US",
+"title": "Endigo ZCX control in alfalfa for weevils and aphids"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 352,
+"fields": {
+"pid": "I420THAD-2020US",
+"title": "Endigo ZCX Subarbeet Root Maggot"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 353,
+"fields": {
+"pid": "IAISSUP4-2019US",
+"title": "Insecticide - Sales Support - 2019 US"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 354,
+"fields": {
+"pid": "IAISSUP4-2020US",
+"title": "Evaluate for activity on Wheat Stem Sawfly"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 355,
+"fields": {
+"pid": "ICH800A4-2020US",
+"title": "Evaluation of Chlorantraniliprole and Cyantraniliprole mixtures for chinch bug control in turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 356,
+"fields": {
+"pid": "ICH801A4-2020US",
+"title": "Evaluation of Cyantraniliprole   Thiamethoxam and A21377X for ground pearl control in turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 357,
+"fields": {
+"pid": "ICH802A4-2020US",
+"title": "Evaluation of Chlorantraniliprole and Cyantraniliprole mixtures for mole cricket control in turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 358,
+"fields": {
+"pid": "ICH911B4-2019US",
+"title": "USFS-compliant Field Evaluation of A15452C Against Subterranean Termites"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 359,
+"fields": {
+"pid": "ICH912A4-2019US",
+"title": "Altriset Reformulation:  Laboratory efficacy of treated wood - subterranean termites"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 360,
+"fields": {
+"pid": "ICH912B4-2019US",
+"title": "A15452C: Laboratory efficacy of treated wood materials"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 361,
+"fields": {
+"pid": "ICH913A4-2019US",
+"title": "A15452C:  Field efficacy against termites in small-scale construction lumber plots (est. 2017)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 362,
+"fields": {
+"pid": "ICH913B4-2019US",
+"title": "A15452C:  Field efficacy against termites in small-scale construction lumber plots (est. 2018)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 363,
+"fields": {
+"pid": "ICH914A4-2017US",
+"title": "A15452C:  Field efficacy against termites using novel application tool"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 364,
+"fields": {
+"pid": "ICL800A3-2020US",
+"title": "Cyantraniliprole + Acibenzolar: Evaluating Abiotic Stress Mitigation and Viral Suppression"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 365,
+"fields": {
+"pid": "ICV001A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - Mites in corn - aerial application"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 366,
+"fields": {
+"pid": "ICV002A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - Mites in corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 367,
+"fields": {
+"pid": "ICV030A3-2020US",
+"title": "NA CP 2020 ISM-555 Foliar Applied Efficacy Trials in Sweetcorn - Stink Bug"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 368,
+"fields": {
+"pid": "ICV031A3-2020US",
+"title": "ISM-555: US Efficacy Sweetcorn - Silk Fly"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 369,
+"fields": {
+"pid": "ICV051A3-2020US",
+"title": "ISM-555 CP US 2020 SC400 profiling - bollworm in soybean"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 370,
+"fields": {
+"pid": "ICV101A3-2020US",
+"title": "ISM-555 CP US 2020 SC400 profiling - Lygus residual in cotton"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 371,
+"fields": {
+"pid": "ICV102A3-2020US",
+"title": "ISM-555 CP US 2020 SC400 profiling - Lygus spray program in cotton"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 372,
+"fields": {
+"pid": "ICV103A3-2020US",
+"title": "ISM-555 CP US 2020 SC400 profiling - Fleahopper on cotton"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 373,
+"fields": {
+"pid": "ICV150A3-2020US",
+"title": "NA CP 2020 ISM-555 Foliar Applied Efficacy Trials in Cereals - Mites"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 374,
+"fields": {
+"pid": "ICV200A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - CPB in potato"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 375,
+"fields": {
+"pid": "ICV201A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - Leafhoppers in potato"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 376,
+"fields": {
+"pid": "ICV202A3-2020US",
+"title": "NA CP 2020 ISM-555 Soil Applied Efficacy Trials in Potato - Wireworms"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 377,
+"fields": {
+"pid": "ICV230A3-2020US",
+"title": "NA CP 2020 ISM-555 Soil Applied Efficacy Trials in Sweet Potato - Wireworms"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 378,
+"fields": {
+"pid": "ICV320A3-2020US",
+"title": "NA CP 2020 ISM-555 Foliar Applied Efficacy Trials in Alfalfa - Alfalfa Weevil"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 379,
+"fields": {
+"pid": "ICV360A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - Thrips in peanuts"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 380,
+"fields": {
+"pid": "ICV361A3-2020US",
+"title": "NA CP 2020 ISM-555 Soil Applied Efficacy Trials in Peanut - Southern corn rootworms"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 381,
+"fields": {
+"pid": "ICV440A3-2019US",
+"title": "ISM-555 CP NA 2019 formulation development for soil uses - wireworm in sugarcane"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 382,
+"fields": {
+"pid": "ICV440A3-2020US",
+"title": "NA CP 2020 ISM-555 Soil Applied Efficacy Trials in Sugarcane - Wireworms"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 383,
+"fields": {
+"pid": "ICV480A3-2020US",
+"title": "ISM-555: US Efficacy Tobacco - Thrips"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 384,
+"fields": {
+"pid": "ICV601A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - SWD"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 385,
+"fields": {
+"pid": "ICV601B3-2020US",
+"title": "ISM-555 CP US 2020 DC100 bioassay - SWD"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 386,
+"fields": {
+"pid": "ICV621A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - ACP in citrus"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 387,
+"fields": {
+"pid": "ICV622A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - FRB in citrus"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 388,
+"fields": {
+"pid": "ICV623A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - Citrus thrips in citrus"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 389,
+"fields": {
+"pid": "ICV624A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - Mites in citrus"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 390,
+"fields": {
+"pid": "ICV625A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - Leafminer in citrus"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 391,
+"fields": {
+"pid": "ICV640A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - Insect pests in apples"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 392,
+"fields": {
+"pid": "ICV641A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - Pear psylla in pear"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 393,
+"fields": {
+"pid": "ICV642A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling- mites in apples"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 394,
+"fields": {
+"pid": "ICV660A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - Plum curculio in stone fruit"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 395,
+"fields": {
+"pid": "ICV680A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - Mites in tree nuts"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 396,
+"fields": {
+"pid": "ICV681A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - Leaf-footed bug of tree nuts"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 397,
+"fields": {
+"pid": "ICV682A3-2020US",
+"title": "ISM-555 CP US 2020 DC100 profiling - lepidoptera in tree nuts"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 398,
+"fields": {
+"pid": "ICV690A3-2020US",
+"title": "NA CP 2020 ISM-555 Foliar Applied Efficacy Trials in Grape - Glassy-winged sharpshooters"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 399,
+"fields": {
+"pid": "ICV691A3-2020US",
+"title": "NA CP 2020 ISM-555 Foliar Applied Efficacy Trials in Grape - Mites"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 400,
+"fields": {
+"pid": "ICV710A3-2020US",
+"title": "ISM-555 CP US 2002 SC200 profiling - Leps in fruiting vegetables"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 401,
+"fields": {
+"pid": "ICV711A3-2020US",
+"title": "ISM-555 CP US 2020 SC200 profiling - Pepper weevil in pepper"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 402,
+"fields": {
+"pid": "ICV730A3-2020US",
+"title": "ISM-555 CP US 2020 SC200 profiling - Thrips in leafy vegetables"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 403,
+"fields": {
+"pid": "ICV731A3-2020US",
+"title": "ISM-555 CP US 2020 SC200 profiling - Leps in leafy vegetables"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 404,
+"fields": {
+"pid": "ICV740A3-2020US",
+"title": "ISM-555 CP US 2020 SC200 profiling - Leps in brassica - NO DBM"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 405,
+"fields": {
+"pid": "ICV741A3-2020US",
+"title": "ISM-555 CP US 2020 SC200 profiling - Flea beetle in brassica"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 406,
+"fields": {
+"pid": "ICV742A3-2020US",
+"title": "NA CP 2020 ISM-555 Soil Applied Efficacy Trials in Brassica - Cabbage Maggot"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 407,
+"fields": {
+"pid": "ICV750A3-2020US",
+"title": "NA CP 2020 ISM-555 Soil Applied Efficacy Trials in Onion - Onion Maggots"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 408,
+"fields": {
+"pid": "ICV751A3-2020US",
+"title": "ISM-555 CP US 2020 SC200 profiling - Thrips in onions"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 409,
+"fields": {
+"pid": "ICV760A3-2020US",
+"title": "ISM-555 CP US 2020 SC200 profiling - Leps in cucurbits"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 410,
+"fields": {
+"pid": "ICV800A3-2020US",
+"title": "Evaluation of ISM-555 mixtures for control of ABW adults"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 411,
+"fields": {
+"pid": "ICV801A3-2020US",
+"title": "Evaluation of ISM-555 mixtures for control of ABW larvae"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 412,
+"fields": {
+"pid": "ICV801B3-2020US",
+"title": "Evaluation of ISM-555 for control of late instar ABW larvae"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 413,
+"fields": {
+"pid": "ICV802A3-2020US",
+"title": "Evaluation of ISM-555 and diamide formulations for white grub control - early preventative timing"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 414,
+"fields": {
+"pid": "ICV802B3-2020US",
+"title": "Evaluation of ISM-555 and diamide formulations for white grub control - preventative timing"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 415,
+"fields": {
+"pid": "ICV802C3-2020US",
+"title": "Evaluation of ISM-555 and diamide formulations for white grub control - curative timing"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 416,
+"fields": {
+"pid": "ICV804A3-2020US",
+"title": "ISM-555: Bioassay evaluation of formulations for curative control of late instar Lepidopteran larvae"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 417,
+"fields": {
+"pid": "ICV805A3-2020US",
+"title": "ISM-555: Evaluation of residual control of natural infestations of Lepidopteran pests in turf"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 418,
+"fields": {
+"pid": "ICV807A3-2019US",
+"title": "Evaluation of ISM-555 for bermudagrass mite control in turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 419,
+"fields": {
+"pid": "ICV807A3-2020US",
+"title": "Evaluation of ISM-555 for mole cricket control in turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 420,
+"fields": {
+"pid": "ICV810A3-2020US",
+"title": "Evaluation of ISM-555 for bermudagrass mite control in turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 421,
+"fields": {
+"pid": "ICV811A3-2020US",
+"title": "ISM-555: Efficacy of insecticide formulations against Cranefly in turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 422,
+"fields": {
+"pid": "ICV812A3-2020US",
+"title": "ISM-555:  Efficacy of insecticide formulations against flea beetle and earwig in turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 423,
+"fields": {
+"pid": "ICV831A3-2020US",
+"title": "ISM-555:  Greenhouse evaluation of foliar applications - non-Tetranychus mites"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 424,
+"fields": {
+"pid": "ICV831B3-2019US",
+"title": "ISM-555: Greenhouse evaluations of foliar applications - other mites"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 425,
+"fields": {
+"pid": "ICV832A3-2019US",
+"title": "ISM-555: Greenhouse evaluation of foliar applications to non-blooming plants - thrips"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 426,
+"fields": {
+"pid": "ICV832A3-2020US",
+"title": "ISM-555:  Greenhouse evaluation of foliar applications to non-blooming plants - thrips"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 427,
+"fields": {
+"pid": "ICV832B3-2020US",
+"title": "ISM-555: Greenhouse evaluation of foliar applications to blooming plants - thrips"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 428,
+"fields": {
+"pid": "ICV834A3-2020US",
+"title": "ISM-555:  Bioassay evaluation of foliar applications - flea beetles"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 429,
+"fields": {
+"pid": "ICV834B3-2020US",
+"title": "ON HOLD: ISM-555:  Nursery evaluation of preventative foliar applications - flea beetle"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 430,
+"fields": {
+"pid": "ICV835A3-2019US",
+"title": "ISM-555:  Greenhouse evaluation of cold fog application"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 431,
+"fields": {
+"pid": "ICV835A3-2020US",
+"title": "ISM-555:  Evaluation of media incorporation for control soil pests in ornamental - Japanese Beetle Larvae"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 432,
+"fields": {
+"pid": "ICV835B3-2020US",
+"title": "ISM-555:  Evaluation of media incorporation for control soil pests in ornamental - Fire Ants"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 433,
+"fields": {
+"pid": "ICV835C3-2020US",
+"title": "ISM-555:  Evaluation of media incorporation for control soil pests in ornamental - Diaprepes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 434,
+"fields": {
+"pid": "ICV836A3-2020US",
+"title": "ISM-555: Nursery & greenhouse evaluation of foliar applications - leaf feeding lepidoptera"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 435,
+"fields": {
+"pid": "ICV836B3-2020US",
+"title": "ISM-555: Nursery & greenhouse evaluation of foliar applications - leaf feeding beetles"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 436,
+"fields": {
+"pid": "ICV837A3-2020US",
+"title": "ISM-555:  Nursery & greenhouse evaluation of foliar applications - psyllids"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 437,
+"fields": {
+"pid": "ICV837B3-2019US",
+"title": "ISM-555: Nursery & greenhouse evaluation of preventative foliar applications - mealy bug and scale"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 438,
+"fields": {
+"pid": "ICV837B3-2020US",
+"title": "ISM-555:  Nursery & greenhouse evaluation of foliar applications - soft scale"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 439,
+"fields": {
+"pid": "ICV837C3-2020US",
+"title": "ISM-555:  Nursery & greenhouse evaluation of foliar applications - mealybugs"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 440,
+"fields": {
+"pid": "ICV838A3-2020US",
+"title": "ISM-555:  Greenhouse evaluation of foliar applications at various water volumes - mites"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 441,
+"fields": {
+"pid": "ICV840A3-2020US",
+"title": "ISM-555:  Nursery & greenhouse crop safety evaluation"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 442,
+"fields": {
+"pid": "ICV841A3-2020US",
+"title": "ISM-555: Efficacy of  bark applications against tree attacking insects"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 443,
+"fields": {
+"pid": "ICV841B3-2020US",
+"title": "ISM 555:  Efficacy of bark applications against Spotted Lantern Fly"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 444,
+"fields": {
+"pid": "ICV842A3-2020US",
+"title": "ON HOLD: ISM-555: Control of nursery and landscape pests with foliar applications of insecticide tank mixes."
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 445,
+"fields": {
+"pid": "ICV843A3-2020US",
+"title": "ISM-555: An assessment of tank mix ratios of insecticides for control of  Liriomyza leafminers."
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 446,
+"fields": {
+"pid": "ICV843B3-2020US",
+"title": "ISM-555: An assessment of tank mix ratios of insecticides for control of  Western Flower Thrips on foliage."
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 447,
+"fields": {
+"pid": "ICV844A3-2020US",
+"title": "ISM-555: Efficacy of A22977A against pests of landscape plants"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 448,
+"fields": {
+"pid": "ICV847A3-2020US",
+"title": "ISM-555: Safety of pre-mixture on key nursery and landscape ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 449,
+"fields": {
+"pid": "ICV848A3-2020US",
+"title": "ISM-555: Control of foliar insects following a drench application"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 450,
+"fields": {
+"pid": "ICV901A3-2019US",
+"title": "Performance of PLINAZOLIN (A22128E) bait against a low density of cockroaches"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 451,
+"fields": {
+"pid": "ICV902A3-2019US",
+"title": "Performance of PLINAZOLIN (A22128E) bait against a high density of cockroaches"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 452,
+"fields": {
+"pid": "ICV905A3-2019US",
+"title": "Aging - 1wk outside & inside   test inside-HD protocol"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 453,
+"fields": {
+"pid": "ICV910A3-2019US",
+"title": "Efficacy of PLINAZOLIN 400SC (A21550L) Applied to Indoor and Outdoor Surfaces Against Cockroaches"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 454,
+"fields": {
+"pid": "ICV912A3-2019US",
+"title": "Efficacy of PLINAZOLIN 400SC (A21550L) Applied to Indoor and Outdoor Surfaces Against Ants"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 455,
+"fields": {
+"pid": "ICV914A3-2019US",
+"title": "Efficacy of PLINAZOLIN (A21550L) applied to indoor surfaces against Bed bugs"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 456,
+"fields": {
+"pid": "ICV918A3-2019US",
+"title": "ISM-555:  USFS field testing - subterranean termites"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 457,
+"fields": {
+"pid": "ICV918A3-2020US",
+"title": "ISM-555:  Soil analysis of samples from USFS field testing"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 458,
+"fields": {
+"pid": "ICV920A3-2020US",
+"title": "ON HOLD: ISM-555:  Laboratory efficacy evaluation of new formulations - PPM pests (Phase I Ant)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 459,
+"fields": {
+"pid": "ICV920B3-2020US",
+"title": "ON HOLD: ISM-555: Laboratory efficacy evaluation of new formulations - PPM pests (Phase I Roach)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 460,
+"fields": {
+"pid": "ICV921A3-2020US",
+"title": "ISM-555:  Laboratory efficacy evaluation of A21550L - termites"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 461,
+"fields": {
+"pid": "ICV921B3-2020US",
+"title": "ISM-555:  Laboratory efficacy evaluation of A21550L applied as a direct spray - drywood termites"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 462,
+"fields": {
+"pid": "ICV921C3-2020US",
+"title": "ISM-555:  Laboratory efficacy evaluation of A21550L applied to soil - subterranean termites"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 463,
+"fields": {
+"pid": "ICV922A3-2020US",
+"title": "ISM-555: Efficacy of A22130D via necrophagy in German Cockroaches   in support of a label claim"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 464,
+"fields": {
+"pid": "ICV923A3-2020US",
+"title": "ON HOLD: ISM-555: Efficacy of A----- ant bait at various loading rates against foraging ants"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 465,
+"fields": {
+"pid": "ICV924A3-2020US",
+"title": "ISM-555: Validation of A22977A rates for control of Ants and Cockroaches on Wood"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 466,
+"fields": {
+"pid": "ICV925A3-2020US",
+"title": "ISM-555: Efficacy of A22977A against PPM Pests in support of label claims"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 467,
+"fields": {
+"pid": "ICV926A3-2020US",
+"title": "ON HOLD: ISM-555: Efficacy of A----- to control ant colonies"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 468,
+"fields": {
+"pid": "ICV927A3-2020US",
+"title": "ON HOLD: ISM-555: Efficacy of A22130D against various strains of German Cockroaches"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 469,
+"fields": {
+"pid": "ICV928A3-2020US",
+"title": "ON HOLD: ISM-555: Comparison of A22130D  vs competitor products for control of cockroaches"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 470,
+"fields": {
+"pid": "ICV929A3-2020US",
+"title": "ON HOLD: ISM-555: Comparison of A22130D  vs"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 471,
+"fields": {
+"pid": "ICV930A3-2020US",
+"title": "ISM-555:  Laboratory efficacy evaluation of A22977A applied to galleries  drywood termites"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 472,
+"fields": {
+"pid": "ICV930B3-2020US",
+"title": "ISM-555:  Laboratory efficacy evaluation of A22977A applied as a direct spray  drywood termites"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 473,
+"fields": {
+"pid": "ICV940A3-2020US",
+"title": "Placeholder in event additional or different regulatory trials are needed beyond 2019 protocols"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 474,
+"fields": {
+"pid": "ICV960A3-2020US",
+"title": "ISM-555 CP US 2020 CA phyto screen"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 475,
+"fields": {
+"pid": "IDEVSUP4-2020US",
+"title": "Plinazolin vs Spider mites in Soybean"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 476,
+"fields": {
+"pid": "IINNOVA4-2020US",
+"title": "Insecticide - Innovation - 2020 US"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 477,
+"fields": {
+"pid": "IIX901A3-2020US",
+"title": "Advion Ant Gel Bait:  Efficacy and accessibility of application in a disposable station"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 478,
+"fields": {
+"pid": "IIX906A4-2020US",
+"title": "Advion  Plus:  Laboratory efficacy testing - Regulatory"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 479,
+"fields": {
+"pid": "IIX906C4-2020US",
+"title": "Advion Plus:  Laboratory efficacy testing vs competitive standards"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 480,
+"fields": {
+"pid": "IIX907A4-2020US",
+"title": "Advion Plus:  Laboratory Efficacy testing of material aged indoors/outdoors"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 481,
+"fields": {
+"pid": "IIX908A4-2020US",
+"title": "Advion Plus:  Efficacy of bait formulations - necrophagy/coprophagy"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 482,
+"fields": {
+"pid": "IIX910A4-2020US",
+"title": "Indoxacarb:  Laboratory efficacy evaluation of new formulations - PPM pests"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 483,
+"fields": {
+"pid": "IIX913A4-2020US",
+"title": "Indoxacarb: Efficacy of A22325C against foraging ants in support of label expansion"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 484,
+"fields": {
+"pid": "IIX913C4-2020US",
+"title": "Indoxacarb: Efficacy of A22325C against scorpins in support of label expansion"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 485,
+"fields": {
+"pid": "IIX914A4-2020US",
+"title": "Indoxacarb: Efficacy of A22325E against foraging ants in support of label expansion"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 486,
+"fields": {
+"pid": "IIX914B4-2020US",
+"title": "Indoxacarb: Efficacy of A22325E against general pests in support of pest claims for California"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 487,
+"fields": {
+"pid": "IIX915A4-2020US",
+"title": "Indoxacarb: Efficacy of A22325C against general pests in support of fireant claims for California"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 488,
+"fields": {
+"pid": "IIX915B4-2020US",
+"title": "Indoxacarb: Efficacy of A22325C against general pests in support of fireant claims for California"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 489,
+"fields": {
+"pid": "IIX916A4-2020US",
+"title": "ON HOLD: Indoxacarb: Efficacy of A22325C against general pests in support of housefly  in support of label expansion"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 490,
+"fields": {
+"pid": "IIX920A4-2017US",
+"title": "The effect of bait exposure period for donors on secondary kill of German cockroach strains"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 491,
+"fields": {
+"pid": "IMG100A3-2020US",
+"title": "NMG-787: CP NA 2020 Plant Response Testing in Cotton - LARGE PLOTS"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 492,
+"fields": {
+"pid": "IMG200A3-2020US",
+"title": "NMG-787: US Application Method Efficacy Testing on Nematodes in Potato"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 493,
+"fields": {
+"pid": "IMG201A3-2020US",
+"title": "NMG-787: CP NA 2020 Efficacy Testing in Potato"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 494,
+"fields": {
+"pid": "IMG202A3-2020US",
+"title": "NMG-787: CP NA 2020 Fertilizer Screen SC300 in Potato"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 495,
+"fields": {
+"pid": "IMG230A3-2020US",
+"title": "NMG-787: CP NA 2020 Efficacy Testing in Sweet Potato"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 496,
+"fields": {
+"pid": "IMG360A3-2020US",
+"title": "NMG-787: CP NA 2020 Efficacy Testing in Peanut"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 497,
+"fields": {
+"pid": "IMG420A3-2019US",
+"title": "NMG-787: US Application Method PoC Testing on Nematodes in Sugar Beet"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 498,
+"fields": {
+"pid": "IMG421A3-2020US",
+"title": "NMG-787: US Plant Response in Sugar Beet without Nematodes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 499,
+"fields": {
+"pid": "IMG440A3-2020US",
+"title": "NMG-787: US Nematode Efficacy Testing in Sugarcane"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 500,
+"fields": {
+"pid": "IMG441A3-2020US",
+"title": "NMG-787: US Multi Year Testing on Nematodes in Newly Planted Sugarcane"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 501,
+"fields": {
+"pid": "IMG480A3-2020US",
+"title": "NMG-787: US Nematode Efficacy Testing in Tobacco"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 502,
+"fields": {
+"pid": "IMG481A3-2020US",
+"title": "NMG-787: US Plant Response in Tobacco without Nematodes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 503,
+"fields": {
+"pid": "IMG600A3-2020US",
+"title": "NMG-787: CP NA 2020 Efficacy Testing in Strawberry"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 504,
+"fields": {
+"pid": "IMG602A3-2019US",
+"title": "NMG-787: US Application Method Efficacy Testing on Nematodes in Strawberry"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 505,
+"fields": {
+"pid": "IMG603A3-2019US",
+"title": "NMG-787: US Rate profiling on Nematodes in Strawberry"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 506,
+"fields": {
+"pid": "IMG620A3-2019US",
+"title": "NMG-787: US Nematode Efficacy Testing in Citrus"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 507,
+"fields": {
+"pid": "IMG620A3-2020US",
+"title": "NMG-787: US Nematode Efficacy Testing in Citrus"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 508,
+"fields": {
+"pid": "IMG622A3-2020US",
+"title": "NMG-787: US Multi Year Testing on Nematodes in Newly Planted Citrus"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 509,
+"fields": {
+"pid": "IMG640A3-2020US",
+"title": "NMG-787: US Multi Year Testing on Nematodes in Newly Planted Stone Fruit"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 510,
+"fields": {
+"pid": "IMG680A3-2020US",
+"title": "NMG-787: US Nematode Efficacy Testing in Tree Nuts"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 511,
+"fields": {
+"pid": "IMG690A3-2020US",
+"title": "NMG-787: US Nematode Efficacy Testing in Grapes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 512,
+"fields": {
+"pid": "IMG691A3-2020US",
+"title": "NMG-787: US Multi Year Testing Plant Response in Established Grape without Nematodes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 513,
+"fields": {
+"pid": "IMG692A3-2020US",
+"title": "NMG-787: US Multi Year Testing on Nematodes in Newly Planted Grape"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 514,
+"fields": {
+"pid": "IMG693A3-2020US",
+"title": "NMG-787:US Multi Year Testing on Nematodes in Mature Grapes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 515,
+"fields": {
+"pid": "IMG694A3-2020US",
+"title": "NMG-787: US Evaluating Residual Efficacy against Nematodes in Grapes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 516,
+"fields": {
+"pid": "IMG710A3-2020US",
+"title": "NMG-787: CP NA 2020 Efficacy Testing in Fruiting Vegetables"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 517,
+"fields": {
+"pid": "IMG720A3-2020US",
+"title": "NMG-787: US Nematode Efficacy Testing in Carrot"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 518,
+"fields": {
+"pid": "IMG721A3-2020US",
+"title": "NMG-787: US Plant Response in Carrot without Nematodes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 519,
+"fields": {
+"pid": "IMG730A3-2020US",
+"title": "NMG-787: CP NA 2020 Efficacy Testing in Leafy Vegetables"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 520,
+"fields": {
+"pid": "IMG740A3-2019US",
+"title": "NMG-787: US Crop Tolerance Brassica"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 521,
+"fields": {
+"pid": "IMG740A3-2020US",
+"title": "NMG-787: CP NA 2020 Plant Response Testing in Brassica"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 522,
+"fields": {
+"pid": "IMG741A3-2020US",
+"title": "NMG-787: CP NA 2020 Nematode Efficacy Testing in Brassica"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 523,
+"fields": {
+"pid": "IMG750A3-2020US",
+"title": "NMG-787: CP NA 2020 Efficacy Testing in Onion"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 524,
+"fields": {
+"pid": "IMG760A3-2020US",
+"title": "NMG-787: CP NA 2020 Plant Response Testing in Cucurbits"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 525,
+"fields": {
+"pid": "IMG761A3-2020US",
+"title": "NMG-787: CP NA 2020 Efficacy Testing in Cucurbits"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 526,
+"fields": {
+"pid": "IMG762A3-2020US",
+"title": "NMG-787: CP NA 2020 NMG-787: US Fertilizer Screen with SC300 in Cucurbits"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 527,
+"fields": {
+"pid": "IRM004A3-2020US",
+"title": "IRM: PLIN Thrips tabaci lab assays [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 528,
+"fields": {
+"pid": "IRM005A3-2020US",
+"title": "IRM: PLIN Thrips tabaci sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 529,
+"fields": {
+"pid": "IRM007A3-2020US",
+"title": "IRM: PLIN Cydia pomonella (CM) baseline monitoring [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 530,
+"fields": {
+"pid": "IRM008A3-2020US",
+"title": "IRM: PLIN Leptinotarsa decemlineata baseline monitoring [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 531,
+"fields": {
+"pid": "IRM009A3-2020US",
+"title": "IRM: PLIN Piezodorus guildinii baseline development [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 532,
+"fields": {
+"pid": "IRM010A3-2020US",
+"title": "IRM: PLIN Euschistus spp. baseline development [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 533,
+"fields": {
+"pid": "IRM011A3-2020US",
+"title": "IRM: PLIN Acrosternum hilare baseline development [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 534,
+"fields": {
+"pid": "IRM012A3-2020US",
+"title": "IRM: PLIN Scirtothrips dorsalis lab assays"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 535,
+"fields": {
+"pid": "IRM013A3-2020US",
+"title": "IRM: PLIN Scirtothrips dorsalis sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 536,
+"fields": {
+"pid": "IRM021A3-2020US",
+"title": "IRM: PLIN Anthonomus eugenii lab assays [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 537,
+"fields": {
+"pid": "IRM022A3-2020US",
+"title": "IRM: PLIN Anthonomus eugenii sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 538,
+"fields": {
+"pid": "IRM023A3-2020US",
+"title": "IRM: PLIN Halymorpha halys (BMSB) baseline monitoring [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 539,
+"fields": {
+"pid": "IRM026A3-2020US",
+"title": "IRM: PLIN Scirtothrips citri lab assays [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 540,
+"fields": {
+"pid": "IRM027A3-2020US",
+"title": "IRM: PLIN Scirtothrips citri sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 541,
+"fields": {
+"pid": "IRM028A3-2020US",
+"title": "IRM: PLIN Grapholita molesta (OFM) baseline monitoring [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 542,
+"fields": {
+"pid": "IRM030A3-2020US",
+"title": "IRM: PLIN Cacopsylla pyri baseline monitoring [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 543,
+"fields": {
+"pid": "IRM031A3-2020US",
+"title": "IRM: PLIN Cacopsylla pyri sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 544,
+"fields": {
+"pid": "IRM037A3-2020US",
+"title": "IRM: PLIN Plutella xylostella lab assays [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 545,
+"fields": {
+"pid": "IRM038A3-2020US",
+"title": "IRM: PLIN Plutella xylostella sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 546,
+"fields": {
+"pid": "IRM201A4-2020US",
+"title": "IRM: CTPR Chrysodeixis includens lab assays [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 547,
+"fields": {
+"pid": "IRM202A4-2020US",
+"title": "IRM: CTPR Chrysodeixis includens sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 548,
+"fields": {
+"pid": "IRM204A4-2020US",
+"title": "IRM: CTPR Plutella xylostella lab assays [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 549,
+"fields": {
+"pid": "IRM205A4-2020US",
+"title": "IRM: CTPR Plutella xylostella sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 550,
+"fields": {
+"pid": "IRM301A4-2020US",
+"title": "IRM: CYNT Bemisia tabaci field pops. Baseline monitoring [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 551,
+"fields": {
+"pid": "IRM302A4-2019US",
+"title": "IRM: CYNT Bemisia tabaci sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 552,
+"fields": {
+"pid": "IRM302A4-2020US",
+"title": "IRM: CYNT Bemisia tabaci field pops. sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 553,
+"fields": {
+"pid": "IRM303A4-2020US",
+"title": "IRM: CYNT Bemisia tabaci L&G Baseline monitoring [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 554,
+"fields": {
+"pid": "IRM304A4-2020US",
+"title": "IRM: CYNT Bemisia tabaci L&G sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 555,
+"fields": {
+"pid": "IRM401A4-2020US",
+"title": "IRM: EMAM Plutella xylostella lab assays [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 556,
+"fields": {
+"pid": "IRM402A4-2020US",
+"title": "IRM: EMAM Plutella xylostella sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 557,
+"fields": {
+"pid": "IRM403A4-2020US",
+"title": "IRM: EMAM Spodoptera frugiperda lab assays [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 558,
+"fields": {
+"pid": "IRM404A4-2020US",
+"title": "IRM: EMAM Spodoptera frugiperda sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 559,
+"fields": {
+"pid": "IRM405A4-2020US",
+"title": "IRM: EMAM Chrysodeixis includens lab assays [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 560,
+"fields": {
+"pid": "IRM406A4-2020US",
+"title": "IRM: EMAM Chrysodeixis includens sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 561,
+"fields": {
+"pid": "IRM501A4-2020US",
+"title": "IRM: LCYH Hypera postica baseline monitoring [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 562,
+"fields": {
+"pid": "IRM502A4-2020US",
+"title": "IRM: LCYH Hypera postica sampling [United States]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 563,
+"fields": {
+"pid": "IRM901A4-2020US",
+"title": "IRM: Insect sampling for Southern Region"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 564,
+"fields": {
+"pid": "IRM902A4-2020US",
+"title": "IRM Insect sampling for Western Region"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 565,
+"fields": {
+"pid": "IRSO0011-2020US",
+"title": "ORPHEUS: NOAM_Spodoptera frugiperda_2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 566,
+"fields": {
+"pid": "IRSO0021-2020US",
+"title": "ORPHEUS_NOAM_Chrysodeixis includens_2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 567,
+"fields": {
+"pid": "IRSO005A-2020US",
+"title": "OTGO_CLEO_NOAM_SOYBEAN CYST NEMATODE_2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 568,
+"fields": {
+"pid": "IRSO006A-2020US",
+"title": "OTGO_THMX_NOAM_CRW_2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 569,
+"fields": {
+"pid": "IRSR0031-2020US",
+"title": "RNAI_STINKBUG_NOAM_NEZARA_2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 570,
+"fields": {
+"pid": "IRSR0041-2020US",
+"title": "RNAI_STINKBUG_NOAM_PIEZODORUS_2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 571,
+"fields": {
+"pid": "IS9050A3-2020US",
+"title": "NA-11630: US Efficacy Trials-Soybean aphid in Soybean"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 572,
+"fields": {
+"pid": "IS9100A3-2020US",
+"title": "NA-11630: US Efficacy Trials-Aphid in Cotton"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 573,
+"fields": {
+"pid": "IS9621A3-2020US",
+"title": "NA-11630: US Efficacy Trials-Red scale in Citrus"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 574,
+"fields": {
+"pid": "IS9622A3-2020US",
+"title": "NA-11630: US Efficacy Trials-Aphid in Citrus"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 575,
+"fields": {
+"pid": "IS9640A3-2020US",
+"title": "NA-11630: US Efficacy Trials-Aphids in Apples"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 576,
+"fields": {
+"pid": "IS9680A3-2020US",
+"title": "NA-11630: US Efficacy Trials-Mealybugs in Grapes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 577,
+"fields": {
+"pid": "IS9710A3-2020US",
+"title": "NA-11630: US Efficacy Trials-Aphid in Fruiting Vegetables"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 578,
+"fields": {
+"pid": "IS9711A3-2020US",
+"title": "NA-11630: US Efficacy Trial- Whitefly in Fruiting Vegetables"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 579,
+"fields": {
+"pid": "IS9730A3-2020US",
+"title": "NA-11630: US Efficacy Trials-Aphids in Leafy Vegetables"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 580,
+"fields": {
+"pid": "IS9740A3-2019US",
+"title": "NA-11630: US Efficacy Trials-Aphids in Brassica Vegetables"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 581,
+"fields": {
+"pid": "IS9740A3-2020US",
+"title": "NA-11630: US Efficacy Trials-Aphids in Brassica Vegetables"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 582,
+"fields": {
+"pid": "IS9760A3-2020US",
+"title": "NA-11630: US Efficacy Trials-Aphid in Cucurbit Vegetables"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 583,
+"fields": {
+"pid": "IS9761A3-2020US",
+"title": "NA-11630: US Efficacy Trials-Whitefly in Cucurbit Vegetables"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 584,
+"fields": {
+"pid": "IUV020A4-2020US",
+"title": "UAV Corn Yield Prediction Project 2020 US: Insecticide-Above Ground"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 585,
+"fields": {
+"pid": "IUV021A4-2020US",
+"title": "UAV Corn Yield Prediction Project 2020 US: Insecticide-Below Ground"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 586,
+"fields": {
+"pid": "IYA800A1-2020US",
+"title": "Evaluate SAPHIR for control of ABW larvae"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 587,
+"fields": {
+"pid": "IYA801A1-2020US",
+"title": "SAPPHIRE: Evaluation of preventative control of white grubs in turf"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 588,
+"fields": {
+"pid": "IYA830A3-2020US",
+"title": "SAPHIR (SYN550988) : Greenhouse evaluation of foliar and drench applications - thrips & whitefly"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 589,
+"fields": {
+"pid": "IYA830B3-2020US",
+"title": "SAPHIR (SYN550988) : Greenhouse evaluation of foliar and drench applications  aphids"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 590,
+"fields": {
+"pid": "IYAS04C1-2020US",
+"title": "SAPHIR ST 1.4:  Profiling Compound validation against Diabrotica sp on corn as In-furrow application (US)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 591,
+"fields": {
+"pid": "IYAS07C1-2020US",
+"title": "Saphir: Profiling Field Trials Against DBM in Brassica in US"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 592,
+"fields": {
+"pid": "IYAX0021-2020US",
+"title": "I-2017-007 MITES +: Profiling Compound against Mites + segment -Phyllocoptruta on citrus"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 593,
+"fields": {
+"pid": "JDBAF011-2020US",
+"title": "Ascochyta on pulses"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 594,
+"fields": {
+"pid": "JDBAS011-2020US",
+"title": "Stage 1: STARK   Potato/tomato Alternaria trials in NA 2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 595,
+"fields": {
+"pid": "JDBCB011-2020US",
+"title": "Cercospora on sugarbeets"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 596,
+"fields": {
+"pid": "JDBCC011-2020US",
+"title": "Stage 1: Tomato   Corynespora   ORION 1.4"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 597,
+"fields": {
+"pid": "JDBCL011-2020US",
+"title": "Stage 1: Cucurbits   Colletotrichum   ORION (1.4) trials in NOAM 2020 Prt #1"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 598,
+"fields": {
+"pid": "JDBCL021-2020US",
+"title": "Stage 1: Cucurbits   Colletotrichum   ORION (1.4) trials in NOAM 2020 Prt #2"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 599,
+"fields": {
+"pid": "JDBCL031-2020US",
+"title": "Stage1: STARK   Cucurbits   Colletotrichum trials in NA 2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 600,
+"fields": {
+"pid": "JDBFB011-2020US",
+"title": "STAGE 1: ORION Wheat Fusarium trials in NOAM 2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 601,
+"fields": {
+"pid": "JDBFB021-2020US",
+"title": "STAGE 1: ORION Wheat Fusarium trials in NOAM 2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 602,
+"fields": {
+"pid": "JDBPP011-2020US",
+"title": "COLUMBO F-2017-004 - US field trials 2020 [UNITED STATES]  Prt 1"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 603,
+"fields": {
+"pid": "JDBPP021-2020US",
+"title": "COLUMBO F-2017-004 - US field trials 2020 [UNITED STATES]  Prt 2"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 604,
+"fields": {
+"pid": "JDBSC011-2020US",
+"title": "STAGE 1: ORION 1.4   Lettuce Sclerotinia in US 2019/20"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 605,
+"fields": {
+"pid": "JDBSF011-2020US",
+"title": "Stage 1: STARK   Cucurbits   Powdery mildew trials in NA 2020"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 606,
+"fields": {
+"pid": "JDEVSUP4-2020US",
+"title": "2020 APN Premix for control of Pecan diseases [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 607,
+"fields": {
+"pid": "JKBCO011-2020US",
+"title": "Evaluate Orion as a seed treatment for control of Fusarium in corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 608,
+"fields": {
+"pid": "N070ADAD-2020US",
+"title": "Methodology for Fusarium-inoculated Corn Seedcare Trials"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 609,
+"fields": {
+"pid": "NAISSUP4-2020US",
+"title": "Evaluate Saltro for RKN control in soybeans. Field evaluation of Saltro vs. competitive treatments"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 610,
+"fields": {
+"pid": "NDEVSUP4-2020US",
+"title": "Evaluate movement of Tymirium with wetting agents   WaterMaxx and SoakerPlus   Development support for Kevin Langdon"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 611,
+"fields": {
+"pid": "NMG001A3-2020US",
+"title": "Evaluate novel compound for Fusarium graminearum protection in US corn INOCULATED 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 612,
+"fields": {
+"pid": "NMG030A3-2020US",
+"title": "Determine the efficacy of new SDHI seed treatments against nematodes in sweet corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 613,
+"fields": {
+"pid": "NMG050A3-2020US",
+"title": "Evaluate novel compound for Cercospora sojina protection in US soybean 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 614,
+"fields": {
+"pid": "NMG051A3-2020US",
+"title": "Evaluate novel compound for Sclerotinia sclerotiorum in US soybean 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 615,
+"fields": {
+"pid": "NMG100A3-2020US",
+"title": "Evaluate NMG-787 Nematode Solution in US Cotton 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 616,
+"fields": {
+"pid": "NMG101A3-2020US",
+"title": "SC CLEO for the control of Fusarium and Cotton Root-Rot in US Cotton 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 617,
+"fields": {
+"pid": "NMG102A3-2020US",
+"title": "SC CLEO for the control of Target Spot in  Cotton 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 618,
+"fields": {
+"pid": "NMG150A3-2019US",
+"title": "NMG-787 (A22417B) for the control of soil-borne Fusarium spp. in Wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 619,
+"fields": {
+"pid": "NMG150A3-2020US",
+"title": "Evaluation of seed treatments (A22417B & A21972C) for the control of nematodes in spring wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 620,
+"fields": {
+"pid": "NMG151A3-2019US",
+"title": "NMG-787 (A22417B) rate finding against Foliar Diseases in Wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 621,
+"fields": {
+"pid": "NMG152A3-2019US",
+"title": "Evaluation of NMG-787 (A22417B) for the control of lesion nematode in wheat: USA"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 622,
+"fields": {
+"pid": "NMG152B3-2019US",
+"title": "Evaluation of NMG-787 (A22417B) for the control of cereal cyst nematode in wheat: USA"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 623,
+"fields": {
+"pid": "NMG380A3-2020US",
+"title": "POC: CLEO-Rice-USA- Control of Nematodes in Rice [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 624,
+"fields": {
+"pid": "NMG420A3-2019US",
+"title": "Evaluation of NMG-787 for Nematode Control Sugar Beet NA"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 625,
+"fields": {
+"pid": "NMG420A3-2020US",
+"title": "Evaluation of NMG-787 for control of nematodes in sugar beets"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 626,
+"fields": {
+"pid": "NMG700A3-2020US",
+"title": "Evaluation of A22417B for nematode control in legumes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 627,
+"fields": {
+"pid": "NMG720A3-2020US",
+"title": "CLEO for control of Nematodes in Carrot"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 628,
+"fields": {
+"pid": "NMG740A3-2020US",
+"title": "CLEO for Control of SBCN in Brassica"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 629,
+"fields": {
+"pid": "NMG750A3-2019US",
+"title": "Evaluate NMG-787 for RKN/Stubby Root Nematode proection in onion"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 630,
+"fields": {
+"pid": "NMG750A3-2020US",
+"title": "Evaluate NMG-787 Nematode Solution in US Onion 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 631,
+"fields": {
+"pid": "NMG760A3-2019US",
+"title": "Evaluate NMG-787 for RKN protection in cucumber"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 632,
+"fields": {
+"pid": "NMG760A3-2020US",
+"title": "Evaluate NMG-787 Nematode Solution in US Large Seeded Cucurbits 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 633,
+"fields": {
+"pid": "NMG761A3-2020US",
+"title": "Evaluate NMG-787 Nematode Solution in US Cucumbers 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 634,
+"fields": {
+"pid": "NMG762A3-2020US",
+"title": "Evaluate NMG-787 Nematode Solution in US Muskmelon 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 635,
+"fields": {
+"pid": "NMG800A3-2020US",
+"title": "Evaluation of NMG-787 and abamectin programs for nematode control in warm-season turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 636,
+"fields": {
+"pid": "NMG800B3-2020US",
+"title": "Evaluation of NMG-787 and abamectin programs for nematode control in warm-season turfgrass - Spot Treatments"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 637,
+"fields": {
+"pid": "NMG800C3-2020US",
+"title": "Evaluation of NMG-787 and abamectin programs for nematode control in warm-season turfgrass - Southern Florida"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 638,
+"fields": {
+"pid": "NMG801A3-2020US",
+"title": "Evaluation of NMG-787 and abamectin programs for nematode control in cool-season turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 639,
+"fields": {
+"pid": "NMG802A3-2020US",
+"title": "Evaluation of NMG-787 for Anguina pacificae control in turfgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 640,
+"fields": {
+"pid": "NMG802B3-2020US",
+"title": "Evaluation of NMG-787 for control of Anguina pacificae in turfgrass - mid-summer"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 641,
+"fields": {
+"pid": "NMG830A2-2020US",
+"title": "NMG-787: Evaluate drench application of NMG-787 for soil nematode control in outdoor nursery ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 642,
+"fields": {
+"pid": "NMG831A2-2020US",
+"title": "NMG-787: Evaluate drench application of NMG-787 for foliar nematode control in ornamentals"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 643,
+"fields": {
+"pid": "NMG832A2-2020US",
+"title": "NMG-787: Evaluate foliar application of NMG-787 for foliar pathogen control in the ornamental market"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 644,
+"fields": {
+"pid": "NMG832B2-2020US",
+"title": "NMG-787: Evaluate drench application of NMG-787 for foliar pathogen control in the ornamental market"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 645,
+"fields": {
+"pid": "NMGC10C3-2020US",
+"title": "Evaluate novel nematode solution in US corn 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 646,
+"fields": {
+"pid": "NMGC10Y3-2020US",
+"title": "Evaluate novel nematode solution in US soybean 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 647,
+"fields": {
+"pid": "NMGC20C3-2020US",
+"title": "Evaluate novel nematode solution in US corn AI x E [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 648,
+"fields": {
+"pid": "NMGC20Y3-2020US",
+"title": "Evaluate novel nematode solution in US soybean 2020 AI x E [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 649,
+"fields": {
+"pid": "PDK1SOD1-2020US",
+"title": "ASM: evaluation of foliar applied EXF19245A in soybean for drought stress mitigation at Managed Stress Environments in the US"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 650,
+"fields": {
+"pid": "PDK1WSD1-2020US",
+"title": "ASM: evaluation of foliar applied EXF19245A in spring wheat for reproductive drought stress mitigation and yield enhancement in TSE   US"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 651,
+"fields": {
+"pid": "PDK1WWD1-2020US",
+"title": "ASM: evaluation of foliar applied EXF19245A in winter wheat for reproductive drought stress mitigation and yield enhancement in TSE   US (autumn 2020 sowing)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 652,
+"fields": {
+"pid": "PDK2SOD1-2020US",
+"title": "ASM: evaluation of foliar applied EXF19245A in soybean for drought stress mitigation at Target Stress Environments in the US"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 653,
+"fields": {
+"pid": "PDK2WWD1-2020US",
+"title": "ASM: evaluation of foliar applied EXF19245A in winter wheat for reproductive drought stress mitigation in open field in the US (autumn 2020 sowing)"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 654,
+"fields": {
+"pid": "PDK800A2-2020US",
+"title": "FONTUS: Evaluating Water Use Efficiency in Bermudagrass and Bentgrass"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 655,
+"fields": {
+"pid": "PDK800B2-2020US",
+"title": "PDK800B2 = FONTUS: Evaluate Safety of Season-Long Applications to Fairways and Greens"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 656,
+"fields": {
+"pid": "PTX800A3-2020US",
+"title": "Finalize financial obligation for cancelled Water Use 3-way project"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 657,
+"fields": {
+"pid": "T050ADAD-2020US",
+"title": "Saltro vs. Ilevo"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 658,
+"fields": {
+"pid": "T051ADAD-2020US",
+"title": "Soybean Seedcare Shoot Out"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 659,
+"fields": {
+"pid": "T052THAD-2020US",
+"title": "Fortenza and Crusier seed treatment fb Endigo ZCX for SGM"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 660,
+"fields": {
+"pid": "TAD001A3-2020US",
+"title": "Develop new 5-way corn fungicide premix with primarily IP fungicides for USA INOCULATED 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 661,
+"fields": {
+"pid": "TAD002A3-2020US",
+"title": "Develop new 5-way corn fungicide premix with primarily IP fungicides for USA INOCULATED 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 662,
+"fields": {
+"pid": "TAD030A3-2020US",
+"title": "Determine the efficacy of new SDHI seed treatments against Fusarium in sweet corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 663,
+"fields": {
+"pid": "TAD051A3-2020US",
+"title": "Develop APN molecule into broader corn stalk and crown rot product AI X Environment 2020 USA [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 664,
+"fields": {
+"pid": "TAD100A3-2020US",
+"title": "APN: Control of Fusarium and Cotton Root-Rot   and Nematodes in Cotton 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 665,
+"fields": {
+"pid": "TAD100B3-2020US",
+"title": "APN: Control of Fusarium and Cotton Root-Rot   and Nematodes in Cotton 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 666,
+"fields": {
+"pid": "TAD150A3-2019US",
+"title": "Evaluate APN (A21972C) for cereals in NA"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 667,
+"fields": {
+"pid": "TAD150A3-2020US",
+"title": "Evaluation of new SDHI seed treatments (A22417B & A21972C) for control of Fusarium foot and crown rot in spring & winter wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 668,
+"fields": {
+"pid": "TAD151A3-2020US",
+"title": "Evaluation of new SDHI seed treatments A22417B & A21972C) for control of snow mold in winter wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 669,
+"fields": {
+"pid": "TAD152A3-2020US",
+"title": "Evaluation of new SDHI seed treatments (A22417B & A21972C) for control of foliar diseases in spring & winter wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 670,
+"fields": {
+"pid": "TAD153A3-2020US",
+"title": "Evaluation of Saltro for control of Fusarium foot and crown rot in spring & winter wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 671,
+"fields": {
+"pid": "TAD154A3-2020US",
+"title": "Evaluation of new SDHI seed treatments (A22417B & A21972C) for control of common root rot in spring wheat."
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 672,
+"fields": {
+"pid": "TAD200A3-2020US",
+"title": "Evaluation of SDHI seed treatments for control of Fusarium in potato"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 673,
+"fields": {
+"pid": "TAD201A3-2020US",
+"title": "Evaluation of SDHI seed treatments for control of early blight in potato"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 674,
+"fields": {
+"pid": "TAD300A3-2019US",
+"title": "Develop A21972A for Seed Treatment Use in Canola for Blackleg"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 675,
+"fields": {
+"pid": "TAD360A3-2020US",
+"title": "Vibrance Peanut Premix - 2020 US Field Trials [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 676,
+"fields": {
+"pid": "TAD420A3-2020US",
+"title": "Evaluation of Adepidyn for control of Fusarium diseases in sugar beet"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 677,
+"fields": {
+"pid": "TAD700A3-2020US",
+"title": "Evaluation of new fungicides for control of Fusarium diseases in legumes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 678,
+"fields": {
+"pid": "TAD701A3-2020US",
+"title": "Evaluation of new fungicides for control of Seed and Soil-borne Sclerotinia in legumes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 679,
+"fields": {
+"pid": "TAD702A3-2020US",
+"title": "Evaluation of new fungicides for control of seed-borne Botrytis and Aspergillus in legumes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 680,
+"fields": {
+"pid": "TAD705A3-2020US",
+"title": "Evaluation of Adepiyn for contol of Fusarium in dry beans"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 681,
+"fields": {
+"pid": "TAD706A3-2020US",
+"title": "Evaluation of Adepidyn for control of nematode in dry bean"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 682,
+"fields": {
+"pid": "TAD730A3-2020US",
+"title": "APN: POC trialing in Leafy Vegetables [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 683,
+"fields": {
+"pid": "TAD760A3-2020US",
+"title": "APN: POC trialing in Cucurbits [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 684,
+"fields": {
+"pid": "TAISSUP4-2020US",
+"title": "Evaluation of Syngenta Seedcare Programs in Wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 685,
+"fields": {
+"pid": "TMG380A3-2020US",
+"title": "POC: CLEO-Rice-USA- Control of Soil Diseases in Rice [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 686,
+"fields": {
+"pid": "TMG731A3-2020US",
+"title": "CLEO for control of Fusarium in Leafy Vegetables"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 687,
+"fields": {
+"pid": "TMGC10Y3-2020US",
+"title": "Evaluate novel compound for Fusarium (Sudden Death Syndrome) protection in US soybean 2020 [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 688,
+"fields": {
+"pid": "TNA030A3-2020US",
+"title": "Evaluate A20597B on Sweet Corn in the USA for Pythium Protection and Crop Safety"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 689,
+"fields": {
+"pid": "TNA100A3-2020US",
+"title": "Develop PCBX 400FS (A20597B) for Cotton NA [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 690,
+"fields": {
+"pid": "TNA101A3-2020US",
+"title": "POC: Vayantis Cotton new Premix Concept"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 691,
+"fields": {
+"pid": "TNA150A3-2020US",
+"title": "Evaluation of A20597B for Pythium control in spring & winter wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 692,
+"fields": {
+"pid": "TNA200A3-2020US",
+"title": "Evaluation of A20597B for control of Pythium leak and pink rot in potato"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 693,
+"fields": {
+"pid": "TNA400A3-2020US",
+"title": "Evaluate A20597B PCBX on sorghum. [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 694,
+"fields": {
+"pid": "TNA700A3-2020US",
+"title": "Evaluation of Picarbutrazox for Pythium & Aphanomyces control in legumes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 695,
+"fields": {
+"pid": "TNA705A3-2020US",
+"title": "Evaluation of Picarbutrazox for contol of Pythium in dry beans"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 696,
+"fields": {
+"pid": "TNA777A3-2020US",
+"title": "PCBX US 2020 Efficacy Trials - Vegetables [UNITED STATES]"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 697,
+"fields": {
+"pid": "TSX700A4-2020US",
+"title": "Comparisons of Vibrance Maxx Pulses RTA to comercial standards"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 698,
+"fields": {
+"pid": "TUV020A4-2020US",
+"title": "UAV Corn Yield Prediction Project 2020 US: Seedcare"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 699,
+"fields": {
+"pid": "UAH001A4-2020US",
+"title": "Compare corn fungicides under heavy Pythium spp. pressure"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 700,
+"fields": {
+"pid": "UAH003A4-2020US",
+"title": "Evaluate novel nematode compound compared to market standards against parasitic corn nematodes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 701,
+"fields": {
+"pid": "UAH051A4-2020US",
+"title": "Evaluate competitive seed treatments for plant parasitic nematodes in US soybean"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 702,
+"fields": {
+"pid": "UAH057A4-2020US",
+"title": "Evaluate competitive seed treatments for Sudden Death Syndrome protection"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 703,
+"fields": {
+"pid": "UAISSUP4-2020US",
+"title": "Evaluate Fortenza vs Fungicide check and comptitive treatments against insects in Row Rice"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 704,
+"fields": {
+"pid": "UPX150A3-2020US",
+"title": "Evaluation of A22725C for wireworm control in spring wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 705,
+"fields": {
+"pid": "UPX151A3-2020US",
+"title": "Evaluation of A22725B for cutworm control in spring wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 706,
+"fields": {
+"pid": "UPX152A3-2020US",
+"title": "Evaluation of wireworm mortality with A22725C for control in spring wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 707,
+"fields": {
+"pid": "UPX700A3-2020US",
+"title": "Evaluation of Plinazolin for control of wireworm in legumes"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 708,
+"fields": {
+"pid": "UYAS05C1-2020US",
+"title": "SAPHIR 1.32 ST_SS20: Profiling Efficacy Field Trials against Thrips on Cotton"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 709,
+"fields": {
+"pid": "UYAS06C1-2020US",
+"title": "SAPHIR 1.32 ST_SS20: Profiling Efficacy Field Trials against CRW on Corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 710,
+"fields": {
+"pid": "YMS100NB-2020US",
+"title": "NA Trial - N2 Fixation in Corn"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 711,
+"fields": {
+"pid": "YMS200NB-2020US",
+"title": "NA Trial - N2 Fixation in Wheat"
+}
+},
+{
+"model": "accounts.Protocol",
+"pk": 712,
+"fields": {
+"pid": "ZCOR01CD-2020US",
+"title": "ZCOR01CD-2020US"
+}
+}
+]
