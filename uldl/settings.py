@@ -141,7 +141,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'static/images')
 AWS_ACCESS_KEY_ID = 'AKIAZCMRD3V3QIBKMEVT'
 AWS_SECRET_ACCESS_KEY = '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'
 AWS_STORAGE_BUCKET_NAME = 'cpfd.syngneta'
-"""
+
 
 AWS_ACCESS_KEY_ID = 'AKIAVH6CVLPUTAWB5U4P'
 AWS_SECRET_ACCESS_KEY = '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'
@@ -154,4 +154,4 @@ DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 STATICFILES_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 
 
-
+"""
