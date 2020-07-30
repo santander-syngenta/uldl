@@ -45,6 +45,8 @@ INSTALLED_APPS = [
     'storages',
 ]
 
+SESSION_ENGINE= 'django.contrib.sessions.backends.cached_db'
+
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
 
