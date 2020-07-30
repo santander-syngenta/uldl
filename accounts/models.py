@@ -53,7 +53,6 @@ class Presentation(models.Model):
 		('Draft','Draft'),
 		('Final', 'Final'),
 		)
-	title = models.CharField(max_length=1000, null = True)	
 	author = models.ForeignKey(author, null=True, on_delete = models.SET_NULL)
 	year = models.ForeignKey(year, null=True, on_delete = models.SET_NULL)
 	country = models.ForeignKey(country, null=True, on_delete = models.SET_NULL)
