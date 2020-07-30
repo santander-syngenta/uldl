@@ -9,7 +9,6 @@ from django.contrib.auth.decorators import login_required
 from .models import * 
 from .forms import *
 from .filters import *
-import requests
 import zipfile
 import os
 import boto
