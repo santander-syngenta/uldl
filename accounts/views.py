@@ -158,7 +158,7 @@ def export_xls(request):
 	for x in presies:
 		row_num += 1
 
-		title = x.title
+		title = x.get_title()
 		aid = str(x.author)
 		status = x.status
 		cid2 = str(x.country)

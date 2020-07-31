@@ -67,6 +67,7 @@ class Presentation(models.Model):
 
 		return (primary.title)
 
+
 	def get_protocols(self):
 		ret = ''
 
