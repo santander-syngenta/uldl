@@ -117,6 +117,7 @@ def getfiles(request):
 		if file_response.status_code == 200:
 
 		# create a copy of the file
+			"""
 			string = str(filename)[10:]
 			f1 = open(string , 'wb')
 			f1.write(file_response.content)
@@ -126,6 +127,15 @@ def getfiles(request):
 			fdir, fname = os.path.split(string)
 			zip_path = os.path.join(zip_subdir, fname)
 			zf.write(string, zip_path)    
+			"""
+			f1 = open(filename , 'wb')
+			f1.write(file_response.content)
+			f1.close()
+
+			# write the file to the zip folder
+			fdir, fname = os.path.split(filename)
+			zip_path = os.path.join(zip_subdir, fname)
+			zf.write(filename, zip_path) 
 
 	# close the zip folder and return
 	zf.close()
