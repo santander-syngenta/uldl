@@ -3,126 +3,126 @@
 "model": "accounts.ai",
 "pk": 1,
 "fields": {
-"name": "ADEPIDYN"
+"name": "Adepidyn"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 2,
 "fields": {
-"name": "bicyclopyrone"
+"name": "Bicyclopyrone"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 3,
 "fields": {
-"name": "brodifacoum"
+"name": "Brodifacoum"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 4,
 "fields": {
-"name": "chlorantraniliprole"
+"name": "Chlorantraniliprole"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 5,
 "fields": {
-"name": "cyantraniliprole"
+"name": "Cyantraniliprole"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 6,
 "fields": {
-"name": "difenoconazole"
+"name": "Difenoconazole"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 7,
 "fields": {
-"name": "emamectin benzoate"
+"name": "Emamectin benzoate"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 8,
 "fields": {
-"name": "fluazifop-P-butyl"
+"name": "Fluazifop-p-butyl"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 9,
 "fields": {
-"name": "fludioxonil"
+"name": "Fludioxonil"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 10,
 "fields": {
-"name": "indoxacarb"
+"name": "Indoxacarb"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 11,
 "fields": {
-"name": "mandipropamid"
+"name": "Mandipropamid"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 12,
 "fields": {
-"name": "mesotrione"
+"name": "Mesotrione"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 13,
 "fields": {
-"name": "Not Applicable"
+"name": "Not applicable"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 14,
 "fields": {
-"name": "oxathiapiprolin"
+"name": "Oxathiapiprolin"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 15,
 "fields": {
-"name": "paraquat"
+"name": "Paraquat"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 16,
 "fields": {
-"name": "PICARBUTRAZOX"
+"name": "Picarbutrazox"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 17,
 "fields": {
-"name": "pinoxaden"
+"name": "Pinoxaden"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 18,
 "fields": {
-"name": "RINSKOR"
+"name": "Rinskor"
 }
 },
 {
@@ -136,7 +136,7 @@
 "model": "accounts.ai",
 "pk": 20,
 "fields": {
-"name": "sedaxane"
+"name": "Sedaxane"
 }
 },
 {
@@ -150,7 +150,7 @@
 "model": "accounts.ai",
 "pk": 22,
 "fields": {
-"name": "spiropidion"
+"name": "Spiropidion"
 }
 },
 {
@@ -206,21 +206,21 @@
 "model": "accounts.ai",
 "pk": 30,
 "fields": {
-"name": "thiabendazole"
+"name": "Thiabendazole"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 31,
 "fields": {
-"name": "trifloxysulfuron-sodium"
+"name": "Trifloxysulfuron-sodium"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 32,
 "fields": {
-"name": "trinexapac-ethyl"
+"name": "Trinexapac-ethyl"
 }
 }
 ]
