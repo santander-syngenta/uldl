@@ -10,196 +10,196 @@
 "model": "accounts.ai",
 "pk": 2,
 "fields": {
-"name": "Not Applicable"
+"name": "bicyclopyrone"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 3,
 "fields": {
-"name": "PICARBUTRAZOX"
+"name": "brodifacoum"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 4,
 "fields": {
-"name": "RINSKOR"
+"name": "chlorantraniliprole"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 5,
 "fields": {
-"name": "S-metolachlor"
+"name": "cyantraniliprole"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 6,
 "fields": {
-"name": "SYN547407"
+"name": "difenoconazole"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 7,
 "fields": {
-"name": "SYN548121"
+"name": "emamectin benzoate"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 8,
 "fields": {
-"name": "SYN549522"
+"name": "fluazifop-P-butyl"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 9,
 "fields": {
-"name": "SYN550023"
+"name": "fludioxonil"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 10,
 "fields": {
-"name": "SYN550593"
+"name": "indoxacarb"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 11,
 "fields": {
-"name": "SYN550988"
+"name": "mandipropamid"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 12,
 "fields": {
-"name": "SYN551769"
+"name": "mesotrione"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 13,
 "fields": {
-"name": "Solatenol"
+"name": "Not Applicable"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 14,
 "fields": {
-"name": "bicyclopyrone"
+"name": "oxathiapiprolin"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 15,
 "fields": {
-"name": "brodifacoum"
+"name": "paraquat"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 16,
 "fields": {
-"name": "chlorantraniliprole"
+"name": "PICARBUTRAZOX"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 17,
 "fields": {
-"name": "cyantraniliprole"
+"name": "pinoxaden"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 18,
 "fields": {
-"name": "difenoconazole"
+"name": "RINSKOR"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 19,
 "fields": {
-"name": "emamectin benzoate"
+"name": "S-metolachlor"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 20,
 "fields": {
-"name": "fluazifop-P-butyl"
+"name": "sedaxane"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 21,
 "fields": {
-"name": "fludioxonil"
+"name": "Solatenol"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 22,
 "fields": {
-"name": "indoxacarb"
+"name": "spiropidion"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 23,
 "fields": {
-"name": "mandipropamid"
+"name": "SYN547407"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 24,
 "fields": {
-"name": "mesotrione"
+"name": "SYN548121"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 25,
 "fields": {
-"name": "oxathiapiprolin"
+"name": "SYN549522"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 26,
 "fields": {
-"name": "paraquat"
+"name": "SYN550023"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 27,
 "fields": {
-"name": "pinoxaden"
+"name": "SYN550593"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 28,
 "fields": {
-"name": "sedaxane"
+"name": "SYN550988"
 }
 },
 {
 "model": "accounts.ai",
 "pk": 29,
 "fields": {
-"name": "spiropidion"
+"name": "SYN551769"
 }
 },
 {
