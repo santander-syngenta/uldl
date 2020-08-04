@@ -12,7 +12,6 @@ class UploadPres(ModelForm):
 		fields = '__all__'
 		widgets = {
 			'pptx': ClearableFileInput(),
-			'status': forms.RadioSelect(),
 		}
 		
 		
