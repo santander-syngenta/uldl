@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '%anlog$&1oj+qis)9unv^=9q2pbnyrg7&e@(as2jw$w8bg+sjn'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['uldl-live1.herokuapp.com', '127.0.0.1']
 
@@ -148,7 +148,6 @@ STATICFILES_DIRS = [
 ]
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'static/images')
-
 
 AWS_S3_FILE_OVERWRITE = False
 AWS_DEFAULT_ACL = None
